@@ -8,7 +8,7 @@
 - Currently, learning to expand my knowledge about Cyber Security
 - 2020 Goals: Contribute more to Open Source projects
 
-##Fun fact:
+## Fun fact:
 > Used <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> Vim since last couple of years, and I hate Emacs
 
 <img align="left" alt="Mine Github Stats" src="https://github-readme-stats.vercel.app/api?username=leodahal4&show_icons=true&hide_border=true" />
