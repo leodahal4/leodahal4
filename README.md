@@ -18,4 +18,4 @@
 [repo]: https://github.com/leodahal4/basnetbrothers
 [mlsitnepal]: https://www.mlsitnepal.com
 [twitter]: https://twitter.com/leodahal
-[emailMe]: leodahal4@gmail.com
+[emailMe]: mailto:leodahal4@gmail.com
