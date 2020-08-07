@@ -2,7 +2,8 @@
 
 ### I'm a Cyber Enthusiastic, a Developer, and Penetration Tester!
 - Formally in a group **Pro-X** as a Full-Stack developer and White Hat Hacker.
-- I’m currently working on a Freelance Project [website]!
+- I’m currently working on a Freelance Project [repo]!
+- Working on [mlsitnepal] as a Senior developer.
 - I’m looking to collaborate with other open source developers
 - Currently, learning to expand my knowledge about Cyber Security
 - 2020 Goals: Contribute more to Open Source projects
@@ -15,3 +16,4 @@
 
 
 [website]: https://github.com/leodahal4/basnetbrothers
+[mlsitnepal]: https://www.mlsitnepal.com
