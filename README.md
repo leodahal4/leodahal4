@@ -10,7 +10,7 @@
 > 2020 Goals: Contribute more to Open Source projects
 
 ##Fun fact:
-> Used Vim since last couple of years, so I hate Emacs
+> Used [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />] Vim since last couple of years, and I hate Emacs
 
 
 [website]: https://github.com/leodahal4/basnetbrothers
