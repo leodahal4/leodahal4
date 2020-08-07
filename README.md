@@ -13,5 +13,5 @@
 > Used Vim since last couple of years, so I hate Emacs
 
 
-[website]: basnetbrothers.com
+[website]: https://github.com/leodahal4/basnetbrothers
 
