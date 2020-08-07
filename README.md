@@ -1,7 +1,7 @@
 ## Leo Dahal 👋
 
 ### I'm a Cyber Enthusiastic, a Developer, and Penetration Tester!
-- Formally in a group Pro-X as a Fll-Stack developer and White Hat Hacker.
+- Formally in a group **Pro-X** as a Full-Stack developer and White Hat Hacker.
 - I’m currently working on a Freelance Project [website]!
 - I’m looking to collaborate with other open source developers
 - Currently, learning to expand my knowledge about Cyber Security
