@@ -10,7 +10,7 @@
 - Want to have a Tech. talk ? Contact me at [twitter] or [emailMe]
 
 ## Fun fact:
-> Used <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> Vim since last couple of years, and I hate Emacs
+> Used <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> Vim since last couple of years.
 
 <img align="left" alt="Mine Github Stats" src="https://github-readme-stats.vercel.app/api?username=leodahal4&show_icons=true&hide_border=true" />
 
