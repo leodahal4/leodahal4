@@ -2,8 +2,6 @@
 
 ### I'm a Cyber Enthusiastic, a Developer, and Penetration Tester!
 - Formally in a group **Pro-X** as a Full-Stack developer and Penetration Tester.
-- Working on **Ayata Inc.** as a Penetration tester.
-- Freelancing on a project of **Samajilo** Organization.
 - I’m looking to collaborate with other open source developers
 - Currently, learning to expand my knowledge about Cyber Security
 - 2021 Goals: Contribute more to Open Source projects
