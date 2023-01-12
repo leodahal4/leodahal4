@@ -1,10 +1,12 @@
-## Leo 👋
+## Hello 👋,
 
-### I'm a Cyber Enthusiastic, a Developer, and Penetration Tester!
-- Formally as a Full-Stack developer and Penetration Tester.
+#### Myself, Mou Sam Dahal 
+
+#### I'm a Developer with a lot of enthusiasm
+- Formally working as a Full-Stack developer and Penetration Tester.
 - I’m looking to collaborate with other open source developers
-- Currently, learning to expand my knowledge about Cyber Security
-- 2021 Goals: Contribute more to Open Source projects
+- Currently, learning to expand my knowledge regarding Cyber
+- 2023 Goals: Contribute more to Open Source projects
 - Want to have a Tech. talk ?
 
 ## Fun fact:
