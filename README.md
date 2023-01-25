@@ -14,4 +14,4 @@
 
 > <img align="left" alt="Arch" width="22px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png"> Lover.
 
-<img align="left" alt="Mine Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leodahal4&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
+<img align="left" alt="Mine Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leodahal4&show_icons=true&hide_border=false&count_private=true" />
