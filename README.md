@@ -3,7 +3,7 @@
 #### Myself, Mou Sam Dahal 
 
 #### I'm a Developer with a lot of enthusiasm
-- Formally working as a Full-Stack developer and Penetration Tester.
+- Formally working as a Full-Stack developer.
 - I’m looking to collaborate with other open source developers
 - Currently, learning to expand my knowledge regarding Cyber
 - 2023 Goals: Contribute more to Open Source projects
