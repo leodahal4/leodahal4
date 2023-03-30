@@ -21,3 +21,5 @@
 
 <img align="left" alt="Mine Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leodahal4&show_icons=true&hide_border=false&count_private=true" />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodahal4&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
