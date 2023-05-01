@@ -18,6 +18,8 @@
 <!-- Snek -->   
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=leodahal4&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <img align="left" alt="Mine Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leodahal4&show_icons=true&hide_border=false&count_private=true" />
 
