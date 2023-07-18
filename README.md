@@ -16,7 +16,7 @@
 
 
 <!-- Snek -->   
-<a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<!-- <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a> !-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leodahal4&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
