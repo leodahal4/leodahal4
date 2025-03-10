@@ -14,6 +14,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y curl
+          chmod +x scripts/update-readme.sh
 
       - name: Run script to update README
         run: ./scripts/update-readme.sh
