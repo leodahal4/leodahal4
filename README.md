@@ -39,3 +39,17 @@ A visual of my GitHub activity:
 
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+
+## My Age (As of 2025-03-10)
+I am 24 years old  
+I am 8794 days old  
+I am 12663360 minutes old  
+My next birthday is in 337 days!  
+
+> "If opportunity doesn't knock, build a door." - Milton Berle
+
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
+
+## Mini  Challenge
+Today’s Challenge: Write a Dockerfile to run a Python script.
