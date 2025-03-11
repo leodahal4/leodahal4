@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-03-10)
+## My Age (As of 2025-03-11)
 I am 24 years old  
-I am 8794 days old  
-I am 12663360 minutes old  
-My next birthday is in 337 days!  
+I am 8795 days old  
+I am 12664800 minutes old  
+My next birthday is in 336 days!  
 
-> "If opportunity doesn't knock, build a door." - Milton Berle
+> "Nothing in life is so exhilarating as to be shot at without result." - Winston Churchill
 
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini  Challenge
-Today’s Challenge: Write a Dockerfile to run a Python script.
+Today’s Challenge: Check if a string is a palindrome in Go.
