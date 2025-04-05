@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-04)
+## My Age (As of 2025-04-05)
 I am 24 years old  
-I am 8819 days old  
-I am 12699360 minutes old  
-My next birthday is in 312 days!  
+I am 8820 days old  
+I am 12700800 minutes old  
+My next birthday is in 311 days!  
 
-> "Wisdom has its root in goodness, not goodness its root in wisdom." - Ralph Waldo Emerson
+> "Love does not consist of gazing at each other, but in looking together in the same direction." - Antoine de Saint-Exupéry
 
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini  Challenge
-Today’s Challenge: Create a simple pod in Kubernetes.
+Today’s Challenge: Build a Docker image for a static HTML page.
