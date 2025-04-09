@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-08)
+## My Age (As of 2025-04-09)
 I am 24 years old  
-I am 8823 days old  
-I am 12705120 minutes old  
-My next birthday is in 308 days!  
+I am 8824 days old  
+I am 12706560 minutes old  
+My next birthday is in 307 days!  
 
-> "You've got to go out on a limb sometimes because that's where the fruit is." - Will Rogers
+> "Don't smother each other. No one can grow in the shade." - Leo Buscaglia
 
 ## Tech Tip of the Day
 
