@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-13)
+## My Age (As of 2025-04-14)
 I am 24 years old  
-I am 8828 days old  
-I am 12712320 minutes old  
-My next birthday is in 303 days!  
+I am 8829 days old  
+I am 12713760 minutes old  
+My next birthday is in 302 days!  
 
-> "The World is my country, all mankind are my brethren, and to do good is my religion." - Thomas Paine
+> "But at any rate, the point is that God is what nobody admits to being, and everybody really is." - Alan Watts
 
 ## Tech Tip of the Day
-In Python, 'list[::-1]' reverses a list in one line.
+Use 'docker-compose up -d' to start services in the background.
 
 ## Mini  Challenge
-Today’s Challenge: Generate a Fibonacci sequence in Python.
+Today’s Challenge: Expose a Kubernetes service via NodePort.
