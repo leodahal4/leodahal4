@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-17)
+## My Age (As of 2025-04-18)
 I am 24 years old  
-I am 8832 days old  
-I am 12718080 minutes old  
-My next birthday is in 299 days!  
+I am 8833 days old  
+I am 12719520 minutes old  
+My next birthday is in 298 days!  
 
-> "I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia." - Woody Allen
+> "No party has a monopoly on wisdom. No democracy works without compromise." - Barack Obama
 
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini  Challenge
-Today’s Challenge: Implement a stack in Rust.
+Today’s Challenge: Count word frequency in a text file in Python.
