@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-19)
+## My Age (As of 2025-04-20)
 I am 24 years old  
-I am 8834 days old  
-I am 12720960 minutes old  
-My next birthday is in 297 days!  
+I am 8835 days old  
+I am 12722400 minutes old  
+My next birthday is in 296 days!  
 
-> "So long as a person is capable of self-renewal they are a living being." - Henri-Frédéric Amiel
+> "It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up." - Muhammad Ali
 
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini  Challenge
-Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
+Today’s Challenge: Dockerize a simple Flask API.
