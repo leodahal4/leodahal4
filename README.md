@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-20)
+## My Age (As of 2025-04-21)
 I am 24 years old  
-I am 8835 days old  
-I am 12722400 minutes old  
-My next birthday is in 296 days!  
+I am 8836 days old  
+I am 12723840 minutes old  
+My next birthday is in 295 days!  
 
-> "It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up." - Muhammad Ali
+> "The only Zen you find on the tops of mountains is the Zen you bring up there." - Robert M. Pirsig
 
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini  Challenge
-Today’s Challenge: Dockerize a simple Flask API.
+Today’s Challenge: Reverse an integer in Go.
