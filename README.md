@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-04-26)
+## My Age (As of 2025-04-27)
 I am 24 years old  
-I am 8841 days old  
-I am 12731040 minutes old  
-My next birthday is in 290 days!  
+I am 8842 days old  
+I am 12732480 minutes old  
+My next birthday is in 289 days!  
 
-> "Remember that a gesture of friendship, no matter how small, is always appreciated." - H. Jackson Brown Jr.
+> "One of the tests of leadership is the ability to recognize a problem before it becomes an emergency." - Olivier Messiaen
 
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini  Challenge
-Today’s Challenge: Convert decimal to binary in Go.
+Today’s Challenge: Implement a queue in Rust.
