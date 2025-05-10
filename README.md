@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-05-09)
+## My Age (As of 2025-05-10)
 I am 24 years old  
-I am 8854 days old  
-I am 12749760 minutes old  
-My next birthday is in 277 days!  
+I am 8855 days old  
+I am 12751200 minutes old  
+My next birthday is in 276 days!  
 
-> "All of our technology is completely unnecessary to a happy life." - Tom Hodgkinson
+> "Continuous effort - not strength or intelligence - is the key to unlocking our potential." - Winston Churchill
 
 ## Tech Tip of the Day
-
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
-Today’s Challenge: 
+Today’s Challenge: Write a Dockerfile to run a Python script.
