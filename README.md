@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-05-15)
+## My Age (As of 2025-05-16)
 I am 24 years old  
-I am 8860 days old  
-I am 12758400 minutes old  
-My next birthday is in 271 days!  
+I am 8861 days old  
+I am 12759840 minutes old  
+My next birthday is in 270 days!  
 
-> "All that we see or seem is but a dream within a dream." - Edgar Allan Poe
+> "Fear grows in darkness; if you think there's a bogeyman around, turn on the light." - Dorothy Thompson
 
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
-Today’s Challenge: Create a multi-stage Docker build for a Go app.
+Today’s Challenge: Find the max value in a slice in Go.
