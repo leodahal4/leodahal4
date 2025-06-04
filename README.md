@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-06-03)
+## My Age (As of 2025-06-04)
 I am 24 years old  
-I am 8879 days old  
-I am 12785760 minutes old  
-My next birthday is in 252 days!  
+I am 8880 days old  
+I am 12787200 minutes old  
+My next birthday is in 251 days!  
 
-> "Life is divided into the horrible and the miserable." - Woody Allen
+> "Subdue your appetites, my dears, and you've conquered human nature." - Charles Dickens
 
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini  Challenge
-Today’s Challenge: Find the factorial of a number in Python.
+Today’s Challenge: Create a simple pod in Kubernetes.
