@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-06-08)
+## My Age (As of 2025-06-09)
 I am 24 years old  
-I am 8884 days old  
-I am 12792960 minutes old  
-My next birthday is in 247 days!  
+I am 8885 days old  
+I am 12794400 minutes old  
+My next birthday is in 246 days!  
 
-> "Problems are only opportunities with thorns on them." - Hugh Miller
+> "There is not one big cosmic meaning for all, there is only the meaning we each give to our life." - Anaïs Nin
 
 ## Tech Tip of the Day
 
