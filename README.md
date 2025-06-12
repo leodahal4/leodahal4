@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-06-11)
+## My Age (As of 2025-06-12)
 I am 24 years old  
-I am 8887 days old  
-I am 12797280 minutes old  
-My next birthday is in 244 days!  
+I am 8888 days old  
+I am 12798720 minutes old  
+My next birthday is in 243 days!  
 
-> "If you find yourself in a hole, the first thing to do is stop digging." - Will Rogers
+> "Men are disturbed not by things, but by the view which they take of them." - Epictetus
 
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini  Challenge
-Today’s Challenge: Check if a string is a palindrome in Go.
+Today’s Challenge: Sum an array of numbers in Rust.
