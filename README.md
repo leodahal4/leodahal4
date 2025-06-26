@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-06-25)
+## My Age (As of 2025-06-26)
 I am 24 years old  
-I am 8901 days old  
-I am 12817440 minutes old  
-My next birthday is in 230 days!  
+I am 8902 days old  
+I am 12818880 minutes old  
+My next birthday is in 229 days!  
 
-> "To be what we are, and to become what we are capable of becoming, is the only end of life." - Robert Louis Stevenson
+> "A friend is someone who gives you total freedom to be yourself." - Jim Morrison
 
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini  Challenge
-Today’s Challenge: Build a Docker image for a Node.js app.
+Today’s Challenge: Convert decimal to binary in Go.
