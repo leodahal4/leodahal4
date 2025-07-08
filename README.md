@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-07-07)
+## My Age (As of 2025-07-08)
 I am 24 years old  
-I am 8913 days old  
-I am 12834720 minutes old  
-My next birthday is in 218 days!  
+I am 8914 days old  
+I am 12836160 minutes old  
+My next birthday is in 217 days!  
 
-> "Autumn is a second spring when every leaf is a flower." - Albert Camus
+> "We are masters of the unsaid words, but slaves of those we let slip out." - Winston Churchill
 
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini  Challenge
-Today’s Challenge: Implement a linked list in Rust.
+Today’s Challenge: 
