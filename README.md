@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-07-08)
+## My Age (As of 2025-07-09)
 I am 24 years old  
-I am 8914 days old  
-I am 12836160 minutes old  
-My next birthday is in 217 days!  
+I am 8915 days old  
+I am 12837600 minutes old  
+My next birthday is in 216 days!  
 
-> "We are masters of the unsaid words, but slaves of those we let slip out." - Winston Churchill
+> "To listen well is as powerful a means of communication and influence as to talk well." - John Marshall
 
 ## Tech Tip of the Day
 
