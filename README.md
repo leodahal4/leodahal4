@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-07-09)
+## My Age (As of 2025-07-10)
 I am 24 years old  
-I am 8915 days old  
-I am 12837600 minutes old  
-My next birthday is in 216 days!  
+I am 8916 days old  
+I am 12839040 minutes old  
+My next birthday is in 215 days!  
 
-> "To listen well is as powerful a means of communication and influence as to talk well." - John Marshall
+> "You cannot find yourself by going into the past. You can find yourself by coming into the present." - Eckhart Tolle
 
 ## Tech Tip of the Day
-
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
-Today’s Challenge: 
+Today’s Challenge: Write a Dockerfile to run a Python script.
