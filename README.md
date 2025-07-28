@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-07-27)
+## My Age (As of 2025-07-28)
 I am 24 years old  
-I am 8933 days old  
-I am 12863520 minutes old  
-My next birthday is in 198 days!  
+I am 8934 days old  
+I am 12864960 minutes old  
+My next birthday is in 197 days!  
 
-> "No person is your friend who demands your silence or denies your right to grow." - Alice Walker
+> "Injuries may be forgiven, but not forgotten." - Aesop
 
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini  Challenge
-Today’s Challenge: Implement a queue in Rust.
+Today’s Challenge: Scrape a webpage using Python.
