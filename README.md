@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-07-31)
+## My Age (As of 2025-08-01)
 I am 24 years old  
-I am 8937 days old  
-I am 12869280 minutes old  
-My next birthday is in 194 days!  
+I am 8938 days old  
+I am 12870720 minutes old  
+My next birthday is in 193 days!  
 
-> "Persuasion is often more effectual than force." - Aesop
+> "Living at risk is jumping off the cliff and building your wings on the way down." - Ray Bradbury
 
 ## Tech Tip of the Day
-Use 'grep -r "text" .' to search for text in all files.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini  Challenge
-Today’s Challenge: Find duplicates in a slice in Go.
+Today’s Challenge: Reverse a string in Go.
