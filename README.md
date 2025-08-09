@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-08-08)
+## My Age (As of 2025-08-09)
 I am 24 years old  
-I am 8945 days old  
-I am 12880800 minutes old  
-My next birthday is in 186 days!  
+I am 8946 days old  
+I am 12882240 minutes old  
+My next birthday is in 185 days!  
 
-> "We aim above the mark to hit the mark." - Ralph Waldo Emerson
+> "If you do not change direction, you may end up where you are heading." - Laozi
 
 ## Tech Tip of the Day
 
