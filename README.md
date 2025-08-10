@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-08-09)
+## My Age (As of 2025-08-10)
 I am 24 years old  
-I am 8946 days old  
-I am 12882240 minutes old  
-My next birthday is in 185 days!  
+I am 8947 days old  
+I am 12883680 minutes old  
+My next birthday is in 184 days!  
 
-> "If you do not change direction, you may end up where you are heading." - Laozi
+> "The cause is hidden. The effect is visible to all." - Ovid
 
 ## Tech Tip of the Day
-
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
-Today’s Challenge: 
+Today’s Challenge: Write a Dockerfile to run a Python script.
