@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-08-15)
+## My Age (As of 2025-08-16)
 I am 24 years old  
-I am 8952 days old  
-I am 12890880 minutes old  
-My next birthday is in 179 days!  
+I am 8953 days old  
+I am 12892320 minutes old  
+My next birthday is in 178 days!  
 
-> "Any sufficiently advanced technology is equivalent to magic." - Arthur C. Clarke
+> "The power of intuitive understanding will protect you from harm until the end of your days." - Laozi
 
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
-Today’s Challenge: Create a multi-stage Docker build for a Go app.
+Today’s Challenge: Find the max value in a slice in Go.
