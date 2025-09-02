@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-01)
+## My Age (As of 2025-09-02)
 I am 24 years old  
-I am 8969 days old  
-I am 12915360 minutes old  
-My next birthday is in 162 days!  
+I am 8970 days old  
+I am 12916800 minutes old  
+My next birthday is in 161 days!  
 
-> "Knowledge without justice ought to be called cunning rather than wisdom." - Plato
+> "These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future." - Vernon Cooper
 
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini  Challenge
-Today’s Challenge: Reverse a string in Go.
+Today’s Challenge: Count vowels in a string in Rust.
