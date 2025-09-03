@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-02)
+## My Age (As of 2025-09-03)
 I am 24 years old  
-I am 8970 days old  
-I am 12916800 minutes old  
-My next birthday is in 161 days!  
+I am 8971 days old  
+I am 12918240 minutes old  
+My next birthday is in 160 days!  
 
-> "These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future." - Vernon Cooper
+> "Knowing is not enough; we must apply!" - Johann Wolfgang von Goethe
 
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini  Challenge
-Today’s Challenge: Count vowels in a string in Rust.
+Today’s Challenge: Find the factorial of a number in Python.
