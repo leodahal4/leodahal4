@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-06)
+## My Age (As of 2025-09-07)
 I am 24 years old  
-I am 8974 days old  
-I am 12922560 minutes old  
-My next birthday is in 157 days!  
+I am 8975 days old  
+I am 12924000 minutes old  
+My next birthday is in 156 days!  
 
-> "Science is organized knowledge. Wisdom is organized life." - Immanuel Kant
+> "A long habit of not thinking a thing wrong gives it a superficial appearance of being right." - Thomas Paine
 
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini  Challenge
-Today’s Challenge: Sort an array of integers in Go.
+Today’s Challenge: Implement a linked list in Rust.
