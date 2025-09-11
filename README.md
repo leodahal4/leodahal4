@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-10)
+## My Age (As of 2025-09-11)
 I am 24 years old  
-I am 8978 days old  
-I am 12928320 minutes old  
-My next birthday is in 153 days!  
+I am 8979 days old  
+I am 12929760 minutes old  
+My next birthday is in 152 days!  
 
-> "Nature is a mutable cloud which is always and never the same." - Ralph Waldo Emerson
+> "If one does not know to which port one is sailing, no wind is favorable." - Seneca the Younger
 
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini  Challenge
-Today’s Challenge: Write a Dockerfile to run a Python script.
+Today’s Challenge: Check if a string is a palindrome in Go.
