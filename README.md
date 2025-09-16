@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-15)
+## My Age (As of 2025-09-16)
 I am 24 years old  
-I am 8983 days old  
-I am 12935520 minutes old  
-My next birthday is in 148 days!  
+I am 8984 days old  
+I am 12936960 minutes old  
+My next birthday is in 147 days!  
 
-> "There is no friendship, no love, like that of the parent for the child." - Henry Ward Beecher
+> "I owe my solitude to other people." - Alan Watts
 
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
-Today’s Challenge: Create a multi-stage Docker build for a Go app.
+Today’s Challenge: Find the max value in a slice in Go.
