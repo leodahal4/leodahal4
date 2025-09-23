@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-22)
+## My Age (As of 2025-09-23)
 I am 24 years old  
-I am 8990 days old  
-I am 12945600 minutes old  
-My next birthday is in 141 days!  
+I am 8991 days old  
+I am 12947040 minutes old  
+My next birthday is in 140 days!  
 
-> "If you do what you've always done, you'll get what you've always gotten." - Tony Robbins
+> "Don't smother each other. No one can grow in the shade." - Leo Buscaglia
 
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini  Challenge
-Today’s Challenge: Filter even numbers from a vector in Rust.
+Today’s Challenge: Create a simple CLI tool in Python.
