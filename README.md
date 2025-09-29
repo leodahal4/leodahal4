@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-09-28)
+## My Age (As of 2025-09-29)
 I am 24 years old  
-I am 8996 days old  
-I am 12954240 minutes old  
-My next birthday is in 135 days!  
+I am 8997 days old  
+I am 12955680 minutes old  
+My next birthday is in 134 days!  
 
-> "You are the only person on earth who can use your ability." - Zig Ziglar
+> "Always bear in mind that your own resolution to succeed is more important than any other." - Abraham Lincoln
 
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini  Challenge
-Today’s Challenge: Scrape a webpage using Python.
+Today’s Challenge: Set up a Kubernetes ingress for an app.
