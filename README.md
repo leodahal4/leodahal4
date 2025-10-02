@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-01)
+## My Age (As of 2025-10-02)
 I am 24 years old  
-I am 8999 days old  
-I am 12958560 minutes old  
-My next birthday is in 132 days!  
+I am 9000 days old  
+I am 12960000 minutes old  
+My next birthday is in 131 days!  
 
-> "You can't blame gravity for falling in love." - Albert Einstein
+> "The superior man understands what is right; the inferior man understands what will sell." - Confucius
 
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini  Challenge
-Today’s Challenge: Reverse a string in Go.
+Today’s Challenge: Count vowels in a string in Rust.
