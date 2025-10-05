@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-04)
+## My Age (As of 2025-10-05)
 I am 24 years old  
-I am 9002 days old  
-I am 12962880 minutes old  
-My next birthday is in 129 days!  
+I am 9003 days old  
+I am 12964320 minutes old  
+My next birthday is in 128 days!  
 
-> "The secret of getting ahead is getting started." - Mark Twain
+> "The greatest remedy for anger is delay." - Seneca the Younger
 
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini  Challenge
-Today’s Challenge: Create a simple pod in Kubernetes.
+Today’s Challenge: Build a Docker image for a static HTML page.
