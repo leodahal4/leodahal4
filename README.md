@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-08)
+## My Age (As of 2025-10-09)
 I am 24 years old  
-I am 9006 days old  
-I am 12968640 minutes old  
-My next birthday is in 125 days!  
+I am 9007 days old  
+I am 12970080 minutes old  
+My next birthday is in 124 days!  
 
-> "They can do all because they think they can." - Virgil
+> "Experience is simply the name we give our mistakes." - Oscar Wilde
 
 ## Tech Tip of the Day
 
