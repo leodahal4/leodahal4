@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-14)
+## My Age (As of 2025-10-15)
 I am 24 years old  
-I am 9012 days old  
-I am 12977280 minutes old  
-My next birthday is in 119 days!  
+I am 9013 days old  
+I am 12978720 minutes old  
+My next birthday is in 118 days!  
 
-> "Our character is what we do when we think no one is looking." - H. Jackson Brown Jr.
+> "When you reach the end of your rope, tie a knot in it and hang on." - Franklin D. Roosevelt
 
 ## Tech Tip of the Day
-Use 'docker-compose up -d' to start services in the background.
+In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini  Challenge
-Today’s Challenge: Expose a Kubernetes service via NodePort.
+Today’s Challenge: Create a multi-stage Docker build for a Go app.
