@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-15)
+## My Age (As of 2025-10-16)
 I am 24 years old  
-I am 9013 days old  
-I am 12978720 minutes old  
-My next birthday is in 118 days!  
+I am 9014 days old  
+I am 12980160 minutes old  
+My next birthday is in 117 days!  
 
-> "When you reach the end of your rope, tie a knot in it and hang on." - Franklin D. Roosevelt
+> "Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." - John Wooden
 
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
-Today’s Challenge: Create a multi-stage Docker build for a Go app.
+Today’s Challenge: Find the max value in a slice in Go.
