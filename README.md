@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-16)
+## My Age (As of 2025-10-17)
 I am 24 years old  
-I am 9014 days old  
-I am 12980160 minutes old  
-My next birthday is in 117 days!  
+I am 9015 days old  
+I am 12981600 minutes old  
+My next birthday is in 116 days!  
 
-> "Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." - John Wooden
+> "There surely is in human nature an inherent propensity to extract all the good out of all the evil." - Benjamin Haydon
 
 ## Tech Tip of the Day
-Run 'lsblk' to list block devices and their mount points.
+Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini  Challenge
-Today’s Challenge: Find the max value in a slice in Go.
+Today’s Challenge: Implement a stack in Rust.
