@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-20)
+## My Age (As of 2025-10-21)
 I am 24 years old  
-I am 9018 days old  
-I am 12985920 minutes old  
-My next birthday is in 113 days!  
+I am 9019 days old  
+I am 12987360 minutes old  
+My next birthday is in 112 days!  
 
-> "The beginning of knowledge is the discovery of something we do not understand." - Frank Herbert
+> "It's not what you look at that matters, it's what you see." - Henry David Thoreau
 
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini  Challenge
-Today’s Challenge: Dockerize a simple Flask API.
+Today’s Challenge: Reverse an integer in Go.
