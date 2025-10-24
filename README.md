@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-23)
+## My Age (As of 2025-10-24)
 I am 24 years old  
-I am 9021 days old  
-I am 12990240 minutes old  
-My next birthday is in 110 days!  
+I am 9022 days old  
+I am 12991680 minutes old  
+My next birthday is in 109 days!  
 
-> "All things must come to the soul from its roots, from where it is planted." - Teresa of Ávila
+> "Remember that failure is an event, not a person." - Zig Ziglar
 
 ## Tech Tip of the Day
-In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+Use 'find . -name "*.txt"' to locate all .txt files.
 
 ## Mini  Challenge
-Today’s Challenge: Create a simple CLI tool in Python.
+Today’s Challenge: Deploy a stateless app in Kubernetes.
