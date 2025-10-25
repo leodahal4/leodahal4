@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-24)
+## My Age (As of 2025-10-25)
 I am 24 years old  
-I am 9022 days old  
-I am 12991680 minutes old  
-My next birthday is in 109 days!  
+I am 9023 days old  
+I am 12993120 minutes old  
+My next birthday is in 108 days!  
 
-> "Remember that failure is an event, not a person." - Zig Ziglar
+> "Very little is needed to make a happy life; it is all within yourself, in your way of thinking." - Marcus Aurelius
 
 ## Tech Tip of the Day
-Use 'find . -name "*.txt"' to locate all .txt files.
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini  Challenge
-Today’s Challenge: Deploy a stateless app in Kubernetes.
+Today’s Challenge: Build a Docker image for a Node.js app.
