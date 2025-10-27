@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-26)
+## My Age (As of 2025-10-27)
 I am 24 years old  
-I am 9024 days old  
-I am 12994560 minutes old  
-My next birthday is in 107 days!  
+I am 9025 days old  
+I am 12996000 minutes old  
+My next birthday is in 106 days!  
 
-> "I know but one freedom and that is the freedom of the mind." - Antoine de Saint-Exupéry
+> "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose." - Woodrow Wilson
 
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini  Challenge
-Today’s Challenge: Convert decimal to binary in Go.
+Today’s Challenge: Implement a queue in Rust.
