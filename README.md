@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-27)
+## My Age (As of 2025-10-28)
 I am 24 years old  
-I am 9025 days old  
-I am 12996000 minutes old  
-My next birthday is in 106 days!  
+I am 9026 days old  
+I am 12997440 minutes old  
+My next birthday is in 105 days!  
 
-> "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose." - Woodrow Wilson
+> "The smaller the mind the greater the conceit." - Aesop
 
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini  Challenge
-Today’s Challenge: Implement a queue in Rust.
+Today’s Challenge: Scrape a webpage using Python.
