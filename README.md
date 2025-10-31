@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-10-30)
+## My Age (As of 2025-10-31)
 I am 24 years old  
-I am 9028 days old  
-I am 13000320 minutes old  
-My next birthday is in 103 days!  
+I am 9029 days old  
+I am 13001760 minutes old  
+My next birthday is in 102 days!  
 
-> "Our passion is our strength." - Billie Armstrong
+> "The place to improve the world is first in one's own heart and head and hands." - Robert M. Pirsig
 
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'grep -r "text" .' to search for text in all files.
 
 ## Mini  Challenge
-Today’s Challenge: Create a Docker volume for persistent data.
+Today’s Challenge: Find duplicates in a slice in Go.
