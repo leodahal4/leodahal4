@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-02)
+## My Age (As of 2025-11-03)
 I am 24 years old  
-I am 9031 days old  
-I am 13004640 minutes old  
-My next birthday is in 100 days!  
+I am 9032 days old  
+I am 13006080 minutes old  
+My next birthday is in 99 days!  
 
-> "If one is lucky, a solitary fantasy can totally transform one million realities." - Maya Angelou
+> "Friendship needs no words - it is solitude delivered from the anguish of loneliness." - Dag Hammarskjöld
 
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini  Challenge
-Today’s Challenge: Count vowels in a string in Rust.
+Today’s Challenge: Find the factorial of a number in Python.
