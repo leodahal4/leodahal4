@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-06)
+## My Age (As of 2025-11-07)
 I am 24 years old  
-I am 9035 days old  
-I am 13010400 minutes old  
-My next birthday is in 96 days!  
+I am 9036 days old  
+I am 13011840 minutes old  
+My next birthday is in 95 days!  
 
-> "Do all things with love." - Og Mandino
+> "Kindness is the golden chain by which society is bound together." - Johann Wolfgang von Goethe
 
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini  Challenge
-Today’s Challenge: Sort an array of integers in Go.
+Today’s Challenge: Implement a linked list in Rust.
