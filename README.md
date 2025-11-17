@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-16)
+## My Age (As of 2025-11-17)
 I am 24 years old  
-I am 9045 days old  
-I am 13024800 minutes old  
-My next birthday is in 86 days!  
+I am 9046 days old  
+I am 13026240 minutes old  
+My next birthday is in 85 days!  
 
-> "A good plan violently executed now is better than a perfect plan executed next week." - George S. Patton
+> "Happiness is found in doing, not merely possessing." - Napoleon Hill
 
 ## Tech Tip of the Day
-Run 'lsblk' to list block devices and their mount points.
+Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini  Challenge
-Today’s Challenge: Find the max value in a slice in Go.
+Today’s Challenge: Implement a stack in Rust.
