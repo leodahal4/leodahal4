@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-17)
+## My Age (As of 2025-11-18)
 I am 24 years old  
-I am 9046 days old  
-I am 13026240 minutes old  
-My next birthday is in 85 days!  
+I am 9047 days old  
+I am 13027680 minutes old  
+My next birthday is in 84 days!  
 
-> "Happiness is found in doing, not merely possessing." - Napoleon Hill
+> "In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
 
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini  Challenge
-Today’s Challenge: Implement a stack in Rust.
+Today’s Challenge: Count word frequency in a text file in Python.
