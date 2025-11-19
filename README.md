@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-18)
+## My Age (As of 2025-11-19)
 I am 24 years old  
-I am 9047 days old  
-I am 13027680 minutes old  
-My next birthday is in 84 days!  
+I am 9048 days old  
+I am 13029120 minutes old  
+My next birthday is in 83 days!  
 
-> "In all chaos there is a cosmos, in all disorder a secret order." - Carl Jung
+> "The free man is he who does not fear to go to the end of his thought." - Léon Blum
 
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini  Challenge
-Today’s Challenge: Count word frequency in a text file in Python.
+Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
