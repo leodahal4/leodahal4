@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-19)
+## My Age (As of 2025-11-20)
 I am 24 years old  
-I am 9048 days old  
-I am 13029120 minutes old  
-My next birthday is in 83 days!  
+I am 9049 days old  
+I am 13030560 minutes old  
+My next birthday is in 82 days!  
 
-> "The free man is he who does not fear to go to the end of his thought." - Léon Blum
+> "All our knowledge has its origins in our perceptions." - Leonardo da Vinci
 
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini  Challenge
-Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
+Today’s Challenge: Dockerize a simple Flask API.
