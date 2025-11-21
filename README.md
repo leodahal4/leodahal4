@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-20)
+## My Age (As of 2025-11-21)
 I am 24 years old  
-I am 9049 days old  
-I am 13030560 minutes old  
-My next birthday is in 82 days!  
+I am 9050 days old  
+I am 13032000 minutes old  
+My next birthday is in 81 days!  
 
-> "All our knowledge has its origins in our perceptions." - Leonardo da Vinci
+> "The greatest way to live with honor in this world is to be what we pretend to be." - Socrates
 
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini  Challenge
-Today’s Challenge: Dockerize a simple Flask API.
+Today’s Challenge: Reverse an integer in Go.
