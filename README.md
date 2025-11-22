@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-21)
+## My Age (As of 2025-11-22)
 I am 24 years old  
-I am 9050 days old  
-I am 13032000 minutes old  
-My next birthday is in 81 days!  
+I am 9051 days old  
+I am 13033440 minutes old  
+My next birthday is in 80 days!  
 
-> "The greatest way to live with honor in this world is to be what we pretend to be." - Socrates
+> "Whatever we expect with confidence becomes our own self-fulfilling prophecy." - Brian Tracy
 
 ## Tech Tip of the Day
-In Go, 'go fmt' auto-formats your code.
+Run 'docker system prune' to clean up unused resources.
 
 ## Mini  Challenge
-Today’s Challenge: Reverse an integer in Go.
+Today’s Challenge: Filter even numbers from a vector in Rust.
