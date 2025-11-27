@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-26)
+## My Age (As of 2025-11-27)
 I am 24 years old  
-I am 9055 days old  
-I am 13039200 minutes old  
-My next birthday is in 76 days!  
+I am 9056 days old  
+I am 13040640 minutes old  
+My next birthday is in 75 days!  
 
-> "The heart has its reasons which reason knows not of." - Blaise Pascal
+> "The wisdom of the wise, and the experience of ages, may be preserved by quotation." - Isaac D'Israeli
 
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini  Challenge
-Today’s Challenge: Convert decimal to binary in Go.
+Today’s Challenge: Implement a queue in Rust.
