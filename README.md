@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-11-30)
+## My Age (As of 2025-12-01)
 I am 24 years old  
-I am 9059 days old  
-I am 13044960 minutes old  
-My next birthday is in 72 days!  
+I am 9060 days old  
+I am 13046400 minutes old  
+My next birthday is in 71 days!  
 
-> "Life shrinks or expands in proportion to one's courage." - Anaïs Nin
+> "He who angers you conquers you." - Elizabeth Kenny
 
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini  Challenge
-Today’s Challenge: Create a Docker volume for persistent data.
+Today’s Challenge: Reverse a string in Go.
