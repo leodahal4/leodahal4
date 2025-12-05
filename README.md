@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-12-04)
+## My Age (As of 2025-12-05)
 I am 24 years old  
-I am 9063 days old  
-I am 13050720 minutes old  
-My next birthday is in 68 days!  
+I am 9064 days old  
+I am 13052160 minutes old  
+My next birthday is in 67 days!  
 
-> "Our work is the presentation of our capabilities." - Edward Gibbon
+> "They say that time changes things, but you actually have to change them yourself." - Andy Warhol
 
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini  Challenge
-Today’s Challenge: Create a simple pod in Kubernetes.
+Today’s Challenge: Build a Docker image for a static HTML page.
