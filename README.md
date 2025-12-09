@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2025-12-08)
+## My Age (As of 2025-12-09)
 I am 24 years old  
-I am 9067 days old  
-I am 13056480 minutes old  
-My next birthday is in 64 days!  
+I am 9068 days old  
+I am 13057920 minutes old  
+My next birthday is in 63 days!  
 
-> "You're never a loser until you quit trying." - Mike Ditka
+> "No man was ever wise by chance." - Seneca the Younger
 
 ## Tech Tip of the Day
 
