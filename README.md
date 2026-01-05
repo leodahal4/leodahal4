@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-04)
+## My Age (As of 2026-01-05)
 I am 24 years old  
-I am 9094 days old  
-I am 13095360 minutes old  
-My next birthday is in 37 days!  
+I am 9095 days old  
+I am 13096800 minutes old  
+My next birthday is in 36 days!  
 
-> "Write your plans in pencil and give God the eraser." - Paulo Coelho
+> "But man is not made for defeat. A man can be destroyed but not defeated." - Ernest Hemingway
 
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini  Challenge
-Today’s Challenge: Create a simple pod in Kubernetes.
+Today’s Challenge: Build a Docker image for a static HTML page.
