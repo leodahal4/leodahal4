@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-05)
+## My Age (As of 2026-01-06)
 I am 24 years old  
-I am 9095 days old  
-I am 13096800 minutes old  
-My next birthday is in 36 days!  
+I am 9096 days old  
+I am 13098240 minutes old  
+My next birthday is in 35 days!  
 
-> "But man is not made for defeat. A man can be destroyed but not defeated." - Ernest Hemingway
+> "Do one thing every day that scares you." - Eleanor Roosevelt
 
 ## Tech Tip of the Day
-Use 'curl -I' to fetch only HTTP headers from a URL.
+In Linux, 'top -i' ignores idle processes for a cleaner view.
 
 ## Mini  Challenge
-Today’s Challenge: Build a Docker image for a static HTML page.
+Today’s Challenge: Sort an array of integers in Go.
