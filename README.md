@@ -40,13 +40,13 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-08)
+## My Age (As of 2026-01-09)
 I am 24 years old  
-I am 9098 days old  
-I am 13101120 minutes old  
-My next birthday is in 33 days!  
+I am 9099 days old  
+I am 13102560 minutes old  
+My next birthday is in 32 days!  
 
-> "You cannot be lonely if you like the person you're alone with." - Wayne Dyer
+> "Friendship is an arrangement by which we undertake to exchange small favors for big ones." - Montesquieu
 
 ## Tech Tip of the Day
 
