@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-12)
+## My Age (As of 2026-01-13)
 I am 24 years old  
-I am 9102 days old  
-I am 13106880 minutes old  
-My next birthday is in 29 days!  
+I am 9103 days old  
+I am 13108320 minutes old  
+My next birthday is in 28 days!  
 
-> "A rolling stone gathers no moss." - Publilius Syrus
+> "Our most intimate friend is not he to whom we show the worst, but the best of our nature." - Nathaniel Hawthorne
 
 ## Tech Tip of the Day
-Run 'nginx -t' to test your Nginx config before reloading.
+In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini  Challenge
-Today’s Challenge: Sum an array of numbers in Rust.
+Today’s Challenge: Generate a Fibonacci sequence in Python.
