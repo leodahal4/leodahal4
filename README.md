@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-14)
+## My Age (As of 2026-01-15)
 I am 24 years old  
-I am 9104 days old  
-I am 13109760 minutes old  
-My next birthday is in 27 days!  
+I am 9105 days old  
+I am 13111200 minutes old  
+My next birthday is in 26 days!  
 
-> "Let us sacrifice our today so that our children can have a better tomorrow." - A. P. J. Abdul Kalam
+> "The biggest room in the world is room for improvement." - Helmut Schmidt
 
 ## Tech Tip of the Day
-Use 'docker-compose up -d' to start services in the background.
+In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini  Challenge
-Today’s Challenge: Expose a Kubernetes service via NodePort.
+Today’s Challenge: Create a multi-stage Docker build for a Go app.
