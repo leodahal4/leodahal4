@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-15)
+## My Age (As of 2026-01-16)
 I am 24 years old  
-I am 9105 days old  
-I am 13111200 minutes old  
-My next birthday is in 26 days!  
+I am 9106 days old  
+I am 13112640 minutes old  
+My next birthday is in 25 days!  
 
-> "The biggest room in the world is room for improvement." - Helmut Schmidt
+> "No one can make you feel inferior without your consent." - Eleanor Roosevelt
 
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
-Today’s Challenge: Create a multi-stage Docker build for a Go app.
+Today’s Challenge: Find the max value in a slice in Go.
