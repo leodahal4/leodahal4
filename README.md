@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-18)
+## My Age (As of 2026-01-19)
 I am 24 years old  
-I am 9108 days old  
-I am 13115520 minutes old  
-My next birthday is in 23 days!  
+I am 9109 days old  
+I am 13116960 minutes old  
+My next birthday is in 22 days!  
 
-> "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing." - Aristotle
+> "First-rate people hire first-rate people; second-rate people hire third-rate people." - Leo Rosten
 
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini  Challenge
-Today’s Challenge: Count word frequency in a text file in Python.
+Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
