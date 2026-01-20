@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-19)
+## My Age (As of 2026-01-20)
 I am 24 years old  
-I am 9109 days old  
-I am 13116960 minutes old  
-My next birthday is in 22 days!  
+I am 9110 days old  
+I am 13118400 minutes old  
+My next birthday is in 21 days!  
 
-> "First-rate people hire first-rate people; second-rate people hire third-rate people." - Leo Rosten
+> "I cannot always control what goes on outside. But I can always control what goes on inside." - Wayne Dyer
 
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini  Challenge
-Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
+Today’s Challenge: Dockerize a simple Flask API.
