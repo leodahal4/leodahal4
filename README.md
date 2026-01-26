@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-25)
+## My Age (As of 2026-01-26)
 I am 24 years old  
-I am 9115 days old  
-I am 13125600 minutes old  
-My next birthday is in 16 days!  
+I am 9116 days old  
+I am 13127040 minutes old  
+My next birthday is in 15 days!  
 
-> "We are stuck with technology when what we really want is just stuff that works." - Douglas Adams
+> "The most successful people are those who are good at plan B." - James A. Yorke
 
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini  Challenge
-Today’s Challenge: Build a Docker image for a Node.js app.
+Today’s Challenge: Convert decimal to binary in Go.
