@@ -40,16 +40,16 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-01-29)
+## My Age (As of 2026-01-30)
 I am 24 years old  
-I am 9119 days old  
-I am 13131360 minutes old  
-My next birthday is in 12 days!  
+I am 9120 days old  
+I am 13132800 minutes old  
+My next birthday is in 11 days!  
 
-> "No party has a monopoly on wisdom. No democracy works without compromise." - Barack Obama
+> "Be the change that you want to see in the world." - Mahatma Gandhi
 
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini  Challenge
-Today’s Challenge: Set up a Kubernetes ingress for an app.
+Today’s Challenge: Create a Docker volume for persistent data.
