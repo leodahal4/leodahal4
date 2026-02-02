@@ -128,12 +128,12 @@ case $challenge_index in
   39) challenge="Run a cron job in a Docker container." ;;
 esac
 
-# Create the dynamic section for README.md with tech tip and coding challenge
-dynamic_section="## My Age (As of $current_date)\n"
-dynamic_section+="I am $years years old  \n"
-dynamic_section+="I am $days days old  \n"
-dynamic_section+="I am $minutes minutes old  \n"
-dynamic_section+="My next birthday is in $days_until_birthday days!  \n\n"
+# # Create the dynamic section for README.md with tech tip and coding challenge
+# dynamic_section="## My Age (As of $current_date)\n"
+# dynamic_section+="I am $years years old  \n"
+# dynamic_section+="I am $days days old  \n"
+# dynamic_section+="I am $minutes minutes old  \n"
+# dynamic_section+="My next birthday is in $days_until_birthday days!  \n\n"
 dynamic_section+="> \"$quote\" - $author\n\n"
 dynamic_section+="## Tech Tip of the Day\n"
 dynamic_section+="$tech_tip\n\n"
