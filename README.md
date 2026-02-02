@@ -40,13 +40,7 @@ A visual of my GitHub activity:
 ## 🐍 GitHub Snake
 <a href="https://gitstar-ranking.com/leodahal4" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 
-## My Age (As of 2026-02-02)
-I am 24 years old  
-I am 9123 days old  
-I am 13137120 minutes old  
-My next birthday is in 8 days!  
-
-> "With every experience, you alone are painting your own canvas, thought by thought, choice by choice." - Oprah Winfrey
+> "Start with what is right rather than what is acceptable." - Franz Kafka
 
 ## Tech Tip of the Day
 In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
