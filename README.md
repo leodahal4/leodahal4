@@ -63,3 +63,11 @@ Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini  Challenge
 Today’s Challenge: Create a simple pod in Kubernetes.
+
+> "All achievements, all earned riches, have their beginning in an idea." - Napoleon Hill
+
+## Tech Tip of the Day
+Use 'curl -I' to fetch only HTTP headers from a URL.
+
+## Mini  Challenge
+Today’s Challenge: Build a Docker image for a static HTML page.
