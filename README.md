@@ -71,3 +71,11 @@ Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini  Challenge
 Today’s Challenge: Build a Docker image for a static HTML page.
+
+> "Yeah, we all shine on, like the moon, and the stars, and the sun." - John Lennon
+
+## Tech Tip of the Day
+In Linux, 'top -i' ignores idle processes for a cleaner view.
+
+## Mini  Challenge
+Today’s Challenge: Sort an array of integers in Go.
