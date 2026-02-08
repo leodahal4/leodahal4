@@ -87,3 +87,11 @@ Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini  Challenge
 Today’s Challenge: Implement a linked list in Rust.
+
+> "Take rest; a field that has rested gives a bountiful crop." - Ovid
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
