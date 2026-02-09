@@ -95,3 +95,11 @@ Today’s Challenge: Implement a linked list in Rust.
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
