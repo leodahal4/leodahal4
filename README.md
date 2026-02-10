@@ -103,3 +103,11 @@ Today’s Challenge:
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "Purity and impurity depend on oneself; no one can purify another." - The Buddha
+
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
+
+## Mini  Challenge
+Today’s Challenge: Write a Dockerfile to run a Python script.
