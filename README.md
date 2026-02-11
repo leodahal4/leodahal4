@@ -111,3 +111,11 @@ Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
 Today’s Challenge: Write a Dockerfile to run a Python script.
+
+> "The poor man is not he who is without a cent, but he who is without a dream." - Harry Kemp
+
+## Tech Tip of the Day
+Use 'chmod +x script.sh' to make a Bash script executable.
+
+## Mini  Challenge
+Today’s Challenge: Check if a string is a palindrome in Go.
