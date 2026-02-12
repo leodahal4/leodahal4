@@ -119,3 +119,11 @@ Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini  Challenge
 Today’s Challenge: Check if a string is a palindrome in Go.
+
+> "Start where you are. Use what you have. Do what you can." - Arthur Ashe
+
+## Tech Tip of the Day
+Run 'nginx -t' to test your Nginx config before reloading.
+
+## Mini  Challenge
+Today’s Challenge: Sum an array of numbers in Rust.
