@@ -151,3 +151,11 @@ In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini  Challenge
 Today’s Challenge: Create a multi-stage Docker build for a Go app.
+
+> "The ladder of success is never crowded at the top." - Napoleon Hill
+
+## Tech Tip of the Day
+Run 'lsblk' to list block devices and their mount points.
+
+## Mini  Challenge
+Today’s Challenge: Find the max value in a slice in Go.
