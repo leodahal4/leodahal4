@@ -159,3 +159,11 @@ Run 'lsblk' to list block devices and their mount points.
 
 ## Mini  Challenge
 Today’s Challenge: Find the max value in a slice in Go.
+
+> "Problems are not stop signs, they are guidelines." - Robert Schuller
+
+## Tech Tip of the Day
+Use 'git branch -D <branch>' to force delete a local branch.
+
+## Mini  Challenge
+Today’s Challenge: Implement a stack in Rust.
