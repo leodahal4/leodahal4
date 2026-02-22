@@ -199,3 +199,11 @@ In Go, 'go fmt' auto-formats your code.
 
 ## Mini  Challenge
 Today’s Challenge: Reverse an integer in Go.
+
+> "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain." - Plato
+
+## Tech Tip of the Day
+Run 'docker system prune' to clean up unused resources.
+
+## Mini  Challenge
+Today’s Challenge: Filter even numbers from a vector in Rust.
