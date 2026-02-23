@@ -207,3 +207,11 @@ Run 'docker system prune' to clean up unused resources.
 
 ## Mini  Challenge
 Today’s Challenge: Filter even numbers from a vector in Rust.
+
+> "Think for yourselves and let others enjoy the privilege to do so too." - Voltaire
+
+## Tech Tip of the Day
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+
+## Mini  Challenge
+Today’s Challenge: Create a simple CLI tool in Python.
