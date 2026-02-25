@@ -223,3 +223,11 @@ Use 'find . -name "*.txt"' to locate all .txt files.
 
 ## Mini  Challenge
 Today’s Challenge: Deploy a stateless app in Kubernetes.
+
+> "Friends are those rare people who ask how we are and then wait to hear the answer." - Ed Cunningham
+
+## Tech Tip of the Day
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+
+## Mini  Challenge
+Today’s Challenge: Build a Docker image for a Node.js app.
