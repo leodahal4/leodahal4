@@ -239,3 +239,11 @@ In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini  Challenge
 Today’s Challenge: Convert decimal to binary in Go.
+
+> "Adversity causes some men to break, others to break records." - William Arthur Ward
+
+## Tech Tip of the Day
+Use 'kubectl port-forward' to access a pod locally.
+
+## Mini  Challenge
+Today’s Challenge: Implement a queue in Rust.
