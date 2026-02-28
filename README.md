@@ -247,3 +247,11 @@ Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini  Challenge
 Today’s Challenge: Implement a queue in Rust.
+
+> "Ability will never catch up with the demand for it." - Confucius
+
+## Tech Tip of the Day
+In Bash, '!!' repeats the last command.
+
+## Mini  Challenge
+Today’s Challenge: Scrape a webpage using Python.
