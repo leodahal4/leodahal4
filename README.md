@@ -271,3 +271,11 @@ In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini  Challenge
 Today’s Challenge: Count vowels in a string in Rust.
+
+> "Happiness does not come from having much, but from being attached to little." - Cheng Yen
+
+## Tech Tip of the Day
+Run 'docker ps -a' to see all containers, even stopped ones.
+
+## Mini  Challenge
+Today’s Challenge: Find the factorial of a number in Python.
