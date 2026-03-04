@@ -279,3 +279,11 @@ Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini  Challenge
 Today’s Challenge: Find the factorial of a number in Python.
+
+> "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine." - Morris West
+
+## Tech Tip of the Day
+Add 'set -x' in a Bash script to debug by printing commands.
+
+## Mini  Challenge
+Today’s Challenge: Create a simple pod in Kubernetes.
