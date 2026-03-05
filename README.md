@@ -287,3 +287,11 @@ Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini  Challenge
 Today’s Challenge: Create a simple pod in Kubernetes.
+
+> "They say that time changes things, but you actually have to change them yourself." - Andy Warhol
+
+## Tech Tip of the Day
+Use 'curl -I' to fetch only HTTP headers from a URL.
+
+## Mini  Challenge
+Today’s Challenge: Build a Docker image for a static HTML page.
