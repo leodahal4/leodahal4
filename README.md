@@ -303,3 +303,11 @@ In Linux, 'top -i' ignores idle processes for a cleaner view.
 
 ## Mini  Challenge
 Today’s Challenge: Sort an array of integers in Go.
+
+> "We can only learn to love by loving." - Iris Murdoch
+
+## Tech Tip of the Day
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
+## Mini  Challenge
+Today’s Challenge: Implement a linked list in Rust.
