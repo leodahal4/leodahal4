@@ -311,3 +311,11 @@ Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini  Challenge
 Today’s Challenge: Implement a linked list in Rust.
+
+> "Sincerity is the way of Heaven. The attainment of sincerity is the way of men." - Confucius
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
