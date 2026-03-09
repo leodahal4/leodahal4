@@ -319,3 +319,11 @@ Today’s Challenge: Implement a linked list in Rust.
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "It is fatal to enter any war without the will to win it." - Douglas MacArthur
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
