@@ -327,3 +327,11 @@ Today’s Challenge:
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "There is nothing impossible to him who will try." - Alexander the Great
+
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
+
+## Mini  Challenge
+Today’s Challenge: Write a Dockerfile to run a Python script.
