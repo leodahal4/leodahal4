@@ -335,3 +335,11 @@ Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
 Today’s Challenge: Write a Dockerfile to run a Python script.
+
+> "You have enemies? Good. That means you've stood up for something, sometime in your life." - Winston Churchill
+
+## Tech Tip of the Day
+Use 'chmod +x script.sh' to make a Bash script executable.
+
+## Mini  Challenge
+Today’s Challenge: Check if a string is a palindrome in Go.
