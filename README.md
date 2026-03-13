@@ -351,3 +351,11 @@ Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini  Challenge
 Today’s Challenge: Sum an array of numbers in Rust.
+
+> "Beware of missing chances; otherwise it may be altogether too late someday." - Franz Liszt
+
+## Tech Tip of the Day
+In Python, 'list[::-1]' reverses a list in one line.
+
+## Mini  Challenge
+Today’s Challenge: Generate a Fibonacci sequence in Python.
