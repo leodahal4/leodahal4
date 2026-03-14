@@ -359,3 +359,11 @@ In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini  Challenge
 Today’s Challenge: Generate a Fibonacci sequence in Python.
+
+> "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." - Anatole France
+
+## Tech Tip of the Day
+Use 'docker-compose up -d' to start services in the background.
+
+## Mini  Challenge
+Today’s Challenge: Expose a Kubernetes service via NodePort.
