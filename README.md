@@ -367,3 +367,11 @@ Use 'docker-compose up -d' to start services in the background.
 
 ## Mini  Challenge
 Today’s Challenge: Expose a Kubernetes service via NodePort.
+
+> "The greatest obstacle to connecting with our joy is resentment." - Pema Chödrön
+
+## Tech Tip of the Day
+In Vim, 'Ctrl + u' scrolls up half a screen.
+
+## Mini  Challenge
+Today’s Challenge: Create a multi-stage Docker build for a Go app.
