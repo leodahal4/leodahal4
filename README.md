@@ -391,3 +391,11 @@ Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini  Challenge
 Today’s Challenge: Implement a stack in Rust.
+
+> "Commitment is an act, not a word." - Jean-Paul Sartre
+
+## Tech Tip of the Day
+In Bash, 'Ctrl + r' searches your command history.
+
+## Mini  Challenge
+Today’s Challenge: Count word frequency in a text file in Python.
