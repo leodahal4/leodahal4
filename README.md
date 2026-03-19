@@ -399,3 +399,11 @@ In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini  Challenge
 Today’s Challenge: Count word frequency in a text file in Python.
+
+> "No snowflake in an avalanche ever feels responsible." - Voltaire
+
+## Tech Tip of the Day
+Run 'kubectl describe pod <name>' for detailed pod info.
+
+## Mini  Challenge
+Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
