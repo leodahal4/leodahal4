@@ -407,3 +407,11 @@ Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini  Challenge
 Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
+
+> "Short words are best and the old words when short are best of all." - Winston Churchill
+
+## Tech Tip of the Day
+Use 'tail -f file.log' to monitor a log file in real-time.
+
+## Mini  Challenge
+Today’s Challenge: Dockerize a simple Flask API.
