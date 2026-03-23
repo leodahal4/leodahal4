@@ -431,3 +431,11 @@ Run 'docker system prune' to clean up unused resources.
 
 ## Mini  Challenge
 Today’s Challenge: Filter even numbers from a vector in Rust.
+
+> "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - Richard Bach
+
+## Tech Tip of the Day
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+
+## Mini  Challenge
+Today’s Challenge: Create a simple CLI tool in Python.
