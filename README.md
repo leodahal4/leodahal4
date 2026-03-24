@@ -439,3 +439,11 @@ In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini  Challenge
 Today’s Challenge: Create a simple CLI tool in Python.
+
+> "Just because something doesn't do what you planned it to do doesn't mean it's useless." - Thomas Edison
+
+## Tech Tip of the Day
+Use 'find . -name "*.txt"' to locate all .txt files.
+
+## Mini  Challenge
+Today’s Challenge: Deploy a stateless app in Kubernetes.
