@@ -455,3 +455,11 @@ Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini  Challenge
 Today’s Challenge: Build a Docker image for a Node.js app.
+
+> "Strong beliefs win strong men, and then make them stronger." - Richard Bach
+
+## Tech Tip of the Day
+In Linux, 'df -h' shows disk usage in human-readable format.
+
+## Mini  Challenge
+Today’s Challenge: Convert decimal to binary in Go.
