@@ -479,3 +479,11 @@ In Bash, '!!' repeats the last command.
 
 ## Mini  Challenge
 Today’s Challenge: Scrape a webpage using Python.
+
+> "We must learn our limits. We are all something, but none of us are everything." - Blaise Pascal
+
+## Tech Tip of the Day
+Run 'docker exec -it <container> bash' to enter a container.
+
+## Mini  Challenge
+Today’s Challenge: Set up a Kubernetes ingress for an app.
