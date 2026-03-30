@@ -487,3 +487,11 @@ Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini  Challenge
 Today’s Challenge: Set up a Kubernetes ingress for an app.
+
+> "Remember that failure is an event, not a person." - Zig Ziglar
+
+## Tech Tip of the Day
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+
+## Mini  Challenge
+Today’s Challenge: Create a Docker volume for persistent data.
