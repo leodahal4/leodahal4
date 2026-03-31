@@ -495,3 +495,11 @@ In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini  Challenge
 Today’s Challenge: Create a Docker volume for persistent data.
+
+> "The greatest good you can do for another is not just share your riches but reveal to them their own." - Benjamin Disraeli
+
+## Tech Tip of the Day
+Use 'grep -r "text" .' to search for text in all files.
+
+## Mini  Challenge
+Today’s Challenge: Find duplicates in a slice in Go.
