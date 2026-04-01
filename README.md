@@ -503,3 +503,11 @@ Use 'grep -r "text" .' to search for text in all files.
 
 ## Mini  Challenge
 Today’s Challenge: Find duplicates in a slice in Go.
+
+> "No bird soars too high if he soars with his own wings." - William Blake
+
+## Tech Tip of the Day
+Use 'git stash' to temporarily save changes without committing.
+
+## Mini  Challenge
+Today’s Challenge: Reverse a string in Go.
