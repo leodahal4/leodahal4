@@ -511,3 +511,11 @@ Use 'git stash' to temporarily save changes without committing.
 
 ## Mini  Challenge
 Today’s Challenge: Reverse a string in Go.
+
+> "Purity and impurity depend on oneself; no one can purify another." - The Buddha
+
+## Tech Tip of the Day
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+
+## Mini  Challenge
+Today’s Challenge: Count vowels in a string in Rust.
