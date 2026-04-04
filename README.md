@@ -527,3 +527,11 @@ Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini  Challenge
 Today’s Challenge: Find the factorial of a number in Python.
+
+> "It is with our passions, as it is with fire and water, they are good servants but bad masters." - Aesop
+
+## Tech Tip of the Day
+Add 'set -x' in a Bash script to debug by printing commands.
+
+## Mini  Challenge
+Today’s Challenge: Create a simple pod in Kubernetes.
