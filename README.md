@@ -559,3 +559,11 @@ Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini  Challenge
 Today’s Challenge: Implement a linked list in Rust.
+
+> "A wise man can learn more from a foolish question than a fool can learn from a wise answer." - Bruce Lee
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
