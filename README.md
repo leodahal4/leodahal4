@@ -567,3 +567,11 @@ Today’s Challenge: Implement a linked list in Rust.
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail." - Ralph Waldo Emerson
+
+## Tech Tip of the Day
+
+
+## Mini  Challenge
+Today’s Challenge: 
