@@ -575,3 +575,11 @@ Today’s Challenge:
 
 ## Mini  Challenge
 Today’s Challenge: 
+
+> "Love doesn't make the world go round; love is what makes the ride worthwhile." - Elizabeth Browning
+
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
+
+## Mini  Challenge
+Today’s Challenge: Write a Dockerfile to run a Python script.
