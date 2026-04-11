@@ -583,3 +583,11 @@ Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini  Challenge
 Today’s Challenge: Write a Dockerfile to run a Python script.
+
+> "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose." - Woodrow Wilson
+
+## Tech Tip of the Day
+Use 'chmod +x script.sh' to make a Bash script executable.
+
+## Mini  Challenge
+Today’s Challenge: Check if a string is a palindrome in Go.
