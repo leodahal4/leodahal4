@@ -607,3 +607,11 @@ In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini  Challenge
 Today’s Challenge: Generate a Fibonacci sequence in Python.
+
+> "Wisdom, compassion, and courage are the three universally recognized moral qualities of men." - Confucius
+
+## Tech Tip of the Day
+Use 'docker-compose up -d' to start services in the background.
+
+## Mini  Challenge
+Today’s Challenge: Expose a Kubernetes service via NodePort.
