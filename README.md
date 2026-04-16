@@ -623,3 +623,11 @@ In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini  Challenge
 Today’s Challenge: Create a multi-stage Docker build for a Go app.
+
+> "It is a characteristic of wisdom not to do desperate things." - Henry David Thoreau
+
+## Tech Tip of the Day
+Run 'lsblk' to list block devices and their mount points.
+
+## Mini  Challenge
+Today’s Challenge: Find the max value in a slice in Go.
