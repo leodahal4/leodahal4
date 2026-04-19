@@ -647,3 +647,11 @@ In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini  Challenge
 Today’s Challenge: Count word frequency in a text file in Python.
+
+> "Opportunity is missed by most because it is dressed in overalls and looks like work." - Thomas Edison
+
+## Tech Tip of the Day
+Run 'kubectl describe pod <name>' for detailed pod info.
+
+## Mini  Challenge
+Today’s Challenge: Set up a Kubernetes ConfigMap for an app.
