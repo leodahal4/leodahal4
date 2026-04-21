@@ -663,3 +663,11 @@ Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini  Challenge
 Today’s Challenge: Dockerize a simple Flask API.
+
+> "Nature takes away any faculty that is not used." - William Inge
+
+## Tech Tip of the Day
+In Go, 'go fmt' auto-formats your code.
+
+## Mini  Challenge
+Today’s Challenge: Reverse an integer in Go.
