@@ -44,6 +44,8 @@ A visual of my GitHub activity:
 
 > "He who talks more is sooner exhausted." - Laozi
 
+> "A thing long expected takes the form of the unexpected when at last it comes." - Mark Twain
+
 ## Tech Tip of the Day
 In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
