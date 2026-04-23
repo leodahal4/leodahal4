@@ -1,41 +1,14 @@
 #!/bin/bash
 
-# Your birth date
-birth_date="2001-02-10"
 # Current date (dynamically set)
 current_date=$(date +%Y-%m-%d)
-
-# Convert dates to seconds since epoch
-birth_seconds=$(date -d "$birth_date" +%s)
-current_seconds=$(date -d "$current_date" +%s)
-
-# Calculate difference in seconds
-diff_seconds=$((current_seconds - birth_seconds))
-
-# Calculate years, days, minutes
-years=$((diff_seconds / 31536000))  # 365 * 24 * 60 * 60
-days=$((diff_seconds / 86400))      # 24 * 60 * 60
-minutes=$((diff_seconds / 60))
-
-# Calculate days until next birthday
-current_year=$(date -d "$current_date" +%Y)
-next_birthday="$current_year-02-10"
-next_birthday_seconds=$(date -d "$next_birthday" +%s)
-
-# If next birthday has passed this year, use next year's
-if [ "$next_birthday_seconds" -lt "$current_seconds" ]; then
-  next_birthday="$((current_year + 1))-02-10"
-  next_birthday_seconds=$(date -d "$next_birthday" +%s)
-fi
-
-days_until_birthday=$(((next_birthday_seconds - current_seconds) / 86400))
 
 # Fetch a single random quote from Quotable API and extract both content and author
 response=$(curl -k -s "https://api.quotable.io/random?maxLength=100")
 quote=$(echo "$response" | grep -o '"content":"[^"]*' | cut -d'"' -f4)
 author=$(echo "$response" | grep -o '"author":"[^"]*' | cut -d'"' -f4)
 
-# Select ASCII art based on day of the month (1-31, rotating through 3 options)
+# Select day of the month for rotating through tips and challenges
 day_of_month=$(date -d "$current_date" +%d)
 
 # Select Tech Tip of the Day based on day of the month (rotating through 40 tips)
@@ -72,14 +45,14 @@ case $tip_index in
   28) tech_tip="Run 'docker exec -it <container> bash' to enter a container." ;;
   29) tech_tip="In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it." ;;
   30) tech_tip="Use 'grep -r \"text\" .' to search for text in all files." ;;
-  31) tech_tip="Run 'systemctl status <service>' to check a service’s state." ;;
+  31) tech_tip="Run 'systemctl status <service>' to check a service's state." ;;
   32) tech_tip="In Python, 'pip freeze > requirements.txt' lists dependencies." ;;
   33) tech_tip="Use 'docker inspect <container>' for detailed container info." ;;
   34) tech_tip="In Vim, ':set number' toggles line numbers." ;;
   35) tech_tip="Run 'watch -n 2 <command>' to repeat a command every 2 seconds." ;;
   36) tech_tip="Use 'git cherry-pick <commit>' to apply a specific commit." ;;
   37) tech_tip="In Bash, 'alias ll=\"ls -la\"' creates a shortcut for ls." ;;
-  38) tech_tip="Run 'kubectl logs <pod>' to view a pod’s logs." ;;
+  38) tech_tip="Run 'kubectl logs <pod>' to view a pod's logs." ;;
   39) tech_tip="Use 'htop' instead of 'top' for a better process viewer." ;;
 esac
 
@@ -128,31 +101,32 @@ case $challenge_index in
   39) challenge="Run a cron job in a Docker container." ;;
 esac
 
-# # Create the dynamic section for README.md with tech tip and coding challenge
-# dynamic_section="## My Age (As of $current_date)\n"
-# dynamic_section+="I am $years years old  \n"
-# dynamic_section+="I am $days days old  \n"
-# dynamic_section+="I am $minutes minutes old  \n"
-# dynamic_section+="My next birthday is in $days_until_birthday days!  \n\n"
-dynamic_section+="> \"$quote\" - $author\n\n"
+# Create the dynamic section for README.md WITHOUT age - only quote, tip, and challenge
+dynamic_section="> \"$quote\" - $author\n\n"
 dynamic_section+="## Tech Tip of the Day\n"
 dynamic_section+="$tech_tip\n\n"
-dynamic_section+="## Mini  Challenge\n"
-dynamic_section+="Today’s Challenge: $challenge"
+dynamic_section+="## Mini Challenge\n"
+dynamic_section+="Today's Challenge: $challenge"
 
 # Update README.md using a temporary file
-marker="## My Age (As of"
+marker="## Tech Tip of the Day"
 temp_file=$(mktemp)
 
 if grep -q "$marker" README.md; then
-  # Copy content up to the marker to temp file, then append dynamic section
-  sed "/$marker/Q" README.md > "$temp_file"
-  echo -e "$dynamic_section" >> "$temp_file"
+  # Keep everything BEFORE the first "## Tech Tip of the Day" marker
+  sed "/$marker/,\$d" README.md > "$temp_file"
 else
-  # If marker not found, copy entire file and append dynamic section
-  cp README.md "$temp_file"
-  echo -e "\n$dynamic_section" >> "$temp_file"
+  # If marker not found, keep everything up to "## Stats" section
+  if grep -q "## Stats" README.md; then
+    sed "/## Stats/,\$d" README.md > "$temp_file"
+  else
+    # Fallback: keep first 40 lines
+    head -n 40 README.md > "$temp_file"
+  fi
 fi
+
+# Append the dynamic section
+echo -e "$dynamic_section" >> "$temp_file"
 
 # Replace original README.md with updated content
 mv "$temp_file" README.md
