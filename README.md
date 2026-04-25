@@ -48,8 +48,10 @@ A visual of my GitHub activity:
 
 > "I owe my solitude to other people." - Alan Watts
 
+> "Never, never, never give up." - Winston Churchill
+
 ## Tech Tip of the Day
-Use 'find . -name "*.txt"' to locate all .txt files.
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini Challenge
-Today's Challenge: Deploy a stateless app in Kubernetes.
+Today's Challenge: Build a Docker image for a Node.js app.
