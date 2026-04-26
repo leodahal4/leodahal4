@@ -50,8 +50,10 @@ A visual of my GitHub activity:
 
 > "Never, never, never give up." - Winston Churchill
 
+> "You won't skid if you stay in a rut." - Kin Hubbard
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
