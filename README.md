@@ -52,8 +52,10 @@ A visual of my GitHub activity:
 
 > "You won't skid if you stay in a rut." - Kin Hubbard
 
+> "The friendship that can cease has never been real." - Jerome
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
