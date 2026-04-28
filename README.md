@@ -54,8 +54,10 @@ A visual of my GitHub activity:
 
 > "The friendship that can cease has never been real." - Jerome
 
+> "There is nothing so useless as doing efficiently that which should not be done at all." - Peter Drucker
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
