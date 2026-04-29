@@ -56,8 +56,10 @@ A visual of my GitHub activity:
 
 > "There is nothing so useless as doing efficiently that which should not be done at all." - Peter Drucker
 
+> "Never reach out your hand unless you're willing to extend an arm." - Pope Paul VI
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
