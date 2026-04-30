@@ -58,8 +58,10 @@ A visual of my GitHub activity:
 
 > "Never reach out your hand unless you're willing to extend an arm." - Pope Paul VI
 
+> "You are always free to change your mind and choose a different future, or a different past." - Richard Bach
+
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ingress for an app.
+Today's Challenge: Create a Docker volume for persistent data.
