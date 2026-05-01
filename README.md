@@ -60,8 +60,10 @@ A visual of my GitHub activity:
 
 > "You are always free to change your mind and choose a different future, or a different past." - Richard Bach
 
+> "I destroy my enemies when I make them my friends." - Abraham Lincoln
+
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini Challenge
-Today's Challenge: Create a Docker volume for persistent data.
+Today's Challenge: Reverse a string in Go.
