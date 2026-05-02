@@ -62,8 +62,10 @@ A visual of my GitHub activity:
 
 > "I destroy my enemies when I make them my friends." - Abraham Lincoln
 
+> "We never understand how little we need in this world until we know the loss of it." - J. M. Barrie
+
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini Challenge
-Today's Challenge: Reverse a string in Go.
+Today's Challenge: Count vowels in a string in Rust.
