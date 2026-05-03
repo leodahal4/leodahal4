@@ -64,8 +64,10 @@ A visual of my GitHub activity:
 
 > "We never understand how little we need in this world until we know the loss of it." - J. M. Barrie
 
+> "The superior man is modest in his speech but exceeds in his actions." - Confucius
+
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini Challenge
-Today's Challenge: Count vowels in a string in Rust.
+Today's Challenge: Find the factorial of a number in Python.
