@@ -66,8 +66,10 @@ A visual of my GitHub activity:
 
 > "The superior man is modest in his speech but exceeds in his actions." - Confucius
 
+> "The world is round and the place which may seem like the end may also be the beginning." - Ivy Baker Priest
+
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini Challenge
-Today's Challenge: Find the factorial of a number in Python.
+Today's Challenge: Create a simple pod in Kubernetes.
