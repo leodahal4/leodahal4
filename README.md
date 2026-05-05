@@ -68,8 +68,10 @@ A visual of my GitHub activity:
 
 > "The world is round and the place which may seem like the end may also be the beginning." - Ivy Baker Priest
 
+> "Life is movement-we breathe, we eat, we walk, we move!" - John Pierrakos
+
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini Challenge
-Today's Challenge: Create a simple pod in Kubernetes.
+Today's Challenge: Build a Docker image for a static HTML page.
