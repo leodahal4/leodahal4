@@ -72,8 +72,10 @@ A visual of my GitHub activity:
 
 > "If you can't feed a hundred people, then feed just one." - Mother Teresa
 
+> "There are people who have money and people who are rich." - Coco Chanel
+
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini Challenge
-Today's Challenge: Sort an array of integers in Go.
+Today's Challenge: Implement a linked list in Rust.
