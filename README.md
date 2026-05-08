@@ -74,8 +74,10 @@ A visual of my GitHub activity:
 
 > "There are people who have money and people who are rich." - Coco Chanel
 
+> "An appeaser is one who feeds a crocodile, hoping it will eat him last." - Winston Churchill
+
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini Challenge
-Today's Challenge: Implement a linked list in Rust.
+Today's Challenge: 
