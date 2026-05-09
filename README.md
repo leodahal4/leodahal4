@@ -76,6 +76,8 @@ A visual of my GitHub activity:
 
 > "An appeaser is one who feeds a crocodile, hoping it will eat him last." - Winston Churchill
 
+> "A single lamp may light hundreds of thousands of lamps without itself being diminished." - The Buddha
+
 ## Tech Tip of the Day
 
 
