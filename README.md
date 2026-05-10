@@ -78,8 +78,10 @@ A visual of my GitHub activity:
 
 > "A single lamp may light hundreds of thousands of lamps without itself being diminished." - The Buddha
 
-## Tech Tip of the Day
+> "I never think of the future. It comes soon enough." - Albert Einstein
 
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini Challenge
-Today's Challenge: 
+Today's Challenge: Write a Dockerfile to run a Python script.
