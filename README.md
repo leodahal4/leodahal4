@@ -80,8 +80,10 @@ A visual of my GitHub activity:
 
 > "I never think of the future. It comes soon enough." - Albert Einstein
 
+> "All human wisdom is summed up in two words; wait and hope." - Alexandre Dumas
+
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini Challenge
-Today's Challenge: Write a Dockerfile to run a Python script.
+Today's Challenge: Check if a string is a palindrome in Go.
