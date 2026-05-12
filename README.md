@@ -82,8 +82,10 @@ A visual of my GitHub activity:
 
 > "All human wisdom is summed up in two words; wait and hope." - Alexandre Dumas
 
+> "The things that one most wants to do are the things that are probably most worth doing." - Winifred Holtby
+
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini Challenge
-Today's Challenge: Check if a string is a palindrome in Go.
+Today's Challenge: Sum an array of numbers in Rust.
