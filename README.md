@@ -84,8 +84,10 @@ A visual of my GitHub activity:
 
 > "The things that one most wants to do are the things that are probably most worth doing." - Winifred Holtby
 
+> "Friendship, like the immortality of the soul, is too good to be believed." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-Run 'nginx -t' to test your Nginx config before reloading.
+In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini Challenge
-Today's Challenge: Sum an array of numbers in Rust.
+Today's Challenge: Generate a Fibonacci sequence in Python.
