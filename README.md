@@ -90,8 +90,10 @@ A visual of my GitHub activity:
 
 > "Work while you have the light. You are responsible for the talent that has been entrusted to you." - Henri-Frédéric Amiel
 
+> "This is the final test of a gentleman: his respect for those who can be of no possible value to him." - William Lyon Phelps
+
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini Challenge
-Today's Challenge: Create a multi-stage Docker build for a Go app.
+Today's Challenge: Find the max value in a slice in Go.
