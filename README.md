@@ -92,8 +92,10 @@ A visual of my GitHub activity:
 
 > "This is the final test of a gentleman: his respect for those who can be of no possible value to him." - William Lyon Phelps
 
+> "You must welcome change as the rule but not as your ruler." - Denis Waitley
+
 ## Tech Tip of the Day
-Run 'lsblk' to list block devices and their mount points.
+Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini Challenge
-Today's Challenge: Find the max value in a slice in Go.
+Today's Challenge: Implement a stack in Rust.
