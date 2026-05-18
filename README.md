@@ -94,8 +94,10 @@ A visual of my GitHub activity:
 
 > "You must welcome change as the rule but not as your ruler." - Denis Waitley
 
+> "There are no limitations to the mind except those we acknowledge." - Napoleon Hill
+
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini Challenge
-Today's Challenge: Implement a stack in Rust.
+Today's Challenge: Count word frequency in a text file in Python.
