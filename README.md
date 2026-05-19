@@ -96,8 +96,10 @@ A visual of my GitHub activity:
 
 > "There are no limitations to the mind except those we acknowledge." - Napoleon Hill
 
+> "You can always count on Americans to do the right thing - after they've tried everything else." - Winston Churchill
+
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini Challenge
-Today's Challenge: Count word frequency in a text file in Python.
+Today's Challenge: Set up a Kubernetes ConfigMap for an app.
