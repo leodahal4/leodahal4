@@ -98,8 +98,10 @@ A visual of my GitHub activity:
 
 > "You can always count on Americans to do the right thing - after they've tried everything else." - Winston Churchill
 
+> "When fate hands us a lemon, let's try to make lemonade." - Dale Carnegie
+
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ConfigMap for an app.
+Today's Challenge: Dockerize a simple Flask API.
