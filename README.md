@@ -100,8 +100,10 @@ A visual of my GitHub activity:
 
 > "When fate hands us a lemon, let's try to make lemonade." - Dale Carnegie
 
+> "Happiness is a perfume you cannot pour on others without getting a few drops on yourself." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini Challenge
-Today's Challenge: Dockerize a simple Flask API.
+Today's Challenge: Reverse an integer in Go.
