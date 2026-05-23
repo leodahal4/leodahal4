@@ -104,8 +104,10 @@ A visual of my GitHub activity:
 
 > "The most formidable weapon against errors of every kind is reason." - Thomas Paine
 
+> "Love, friendship and respect do not unite people as much as a common hatred for something." - Anton Chekhov
+
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini Challenge
-Today's Challenge: Filter even numbers from a vector in Rust.
+Today's Challenge: Create a simple CLI tool in Python.
