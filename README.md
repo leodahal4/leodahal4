@@ -110,8 +110,10 @@ A visual of my GitHub activity:
 
 > "Never apologize for showing feelings. When you do so, you apologize for the truth." - Benjamin Disraeli
 
+> "Make it your habit not to be critical about small things." - Edward Everett Hale
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
