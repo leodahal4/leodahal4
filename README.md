@@ -112,8 +112,10 @@ A visual of my GitHub activity:
 
 > "Make it your habit not to be critical about small things." - Edward Everett Hale
 
+> "The lure of the distant and the difficult is deceptive. The great opportunity is where you are." - John Burroughs
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
