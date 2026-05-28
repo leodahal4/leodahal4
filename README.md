@@ -114,8 +114,10 @@ A visual of my GitHub activity:
 
 > "The lure of the distant and the difficult is deceptive. The great opportunity is where you are." - John Burroughs
 
+> "How many cares one loses when one decides not to be something but to be someone." - Coco Chanel
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
