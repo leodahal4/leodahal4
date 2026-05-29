@@ -116,8 +116,10 @@ A visual of my GitHub activity:
 
 > "How many cares one loses when one decides not to be something but to be someone." - Coco Chanel
 
+> "If you don't know where you are going, you will probably end up somewhere else." - Laurence J. Peter
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
