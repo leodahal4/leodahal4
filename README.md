@@ -118,8 +118,10 @@ A visual of my GitHub activity:
 
 > "If you don't know where you are going, you will probably end up somewhere else." - Laurence J. Peter
 
+> "Life is about timing." - Carl Lewis
+
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ingress for an app.
+Today's Challenge: Create a Docker volume for persistent data.
