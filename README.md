@@ -120,8 +120,10 @@ A visual of my GitHub activity:
 
 > "Life is about timing." - Carl Lewis
 
+> "The less effort, the faster and more powerful you will be." - Bruce Lee
+
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'grep -r "text" .' to search for text in all files.
 
 ## Mini Challenge
-Today's Challenge: Create a Docker volume for persistent data.
+Today's Challenge: Find duplicates in a slice in Go.
