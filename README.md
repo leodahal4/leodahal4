@@ -122,8 +122,10 @@ A visual of my GitHub activity:
 
 > "The less effort, the faster and more powerful you will be." - Bruce Lee
 
+> "I have no special talent. I am only passionately curious." - Albert Einstein
+
 ## Tech Tip of the Day
-Use 'grep -r "text" .' to search for text in all files.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini Challenge
-Today's Challenge: Find duplicates in a slice in Go.
+Today's Challenge: Reverse a string in Go.
