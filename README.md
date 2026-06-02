@@ -124,8 +124,10 @@ A visual of my GitHub activity:
 
 > "I have no special talent. I am only passionately curious." - Albert Einstein
 
+> "Most of the shadows of life are caused by standing in our own sunshine." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini Challenge
-Today's Challenge: Reverse a string in Go.
+Today's Challenge: Count vowels in a string in Rust.
