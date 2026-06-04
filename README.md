@@ -128,8 +128,10 @@ A visual of my GitHub activity:
 
 > "He who lives in harmony with himself lives in harmony with the universe." - Marcus Aurelius
 
+> "Without hard work, nothing grows but weeds." - Gordon Hinckley
+
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini Challenge
-Today's Challenge: Find the factorial of a number in Python.
+Today's Challenge: Create a simple pod in Kubernetes.
