@@ -130,8 +130,10 @@ A visual of my GitHub activity:
 
 > "Without hard work, nothing grows but weeds." - Gordon Hinckley
 
+> "It isn't where you come from, it's where you're going that counts." - Ella Fitzgerald
+
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini Challenge
-Today's Challenge: Create a simple pod in Kubernetes.
+Today's Challenge: Build a Docker image for a static HTML page.
