@@ -132,8 +132,10 @@ A visual of my GitHub activity:
 
 > "It isn't where you come from, it's where you're going that counts." - Ella Fitzgerald
 
+> "Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching." - Satchel Paige
+
 ## Tech Tip of the Day
-Use 'curl -I' to fetch only HTTP headers from a URL.
+In Linux, 'top -i' ignores idle processes for a cleaner view.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a static HTML page.
+Today's Challenge: Sort an array of integers in Go.
