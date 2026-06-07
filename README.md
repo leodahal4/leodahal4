@@ -134,8 +134,10 @@ A visual of my GitHub activity:
 
 > "Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching." - Satchel Paige
 
+> "Sadness flies away on the wings of time." - Jean de La Fontaine
+
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini Challenge
-Today's Challenge: Sort an array of integers in Go.
+Today's Challenge: Implement a linked list in Rust.
