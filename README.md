@@ -136,8 +136,10 @@ A visual of my GitHub activity:
 
 > "Sadness flies away on the wings of time." - Jean de La Fontaine
 
+> "He that respects himself is safe from others; he wears a coat of mail that none can pierce." - Henry Wadsworth Longfellow
+
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini Challenge
-Today's Challenge: Implement a linked list in Rust.
+Today's Challenge: 
