@@ -140,8 +140,10 @@ A visual of my GitHub activity:
 
 > "Let us always meet each other with smile, for the smile is the beginning of love." - Mother Teresa
 
-## Tech Tip of the Day
+> "Wise men talk because they have something to say; fools, because they have to say something." - Plato
 
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini Challenge
-Today's Challenge: 
+Today's Challenge: Write a Dockerfile to run a Python script.
