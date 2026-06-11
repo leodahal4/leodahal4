@@ -142,8 +142,10 @@ A visual of my GitHub activity:
 
 > "Wise men talk because they have something to say; fools, because they have to say something." - Plato
 
+> "Everything that irritates us about others can lead us to a better understanding of ourselves." - Carl Jung
+
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini Challenge
-Today's Challenge: Write a Dockerfile to run a Python script.
+Today's Challenge: Check if a string is a palindrome in Go.
