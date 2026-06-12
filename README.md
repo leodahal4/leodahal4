@@ -144,8 +144,10 @@ A visual of my GitHub activity:
 
 > "Everything that irritates us about others can lead us to a better understanding of ourselves." - Carl Jung
 
+> "To be wrong is nothing unless you continue to remember it." - Confucius
+
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini Challenge
-Today's Challenge: Check if a string is a palindrome in Go.
+Today's Challenge: Sum an array of numbers in Rust.
