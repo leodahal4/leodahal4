@@ -146,8 +146,10 @@ A visual of my GitHub activity:
 
 > "To be wrong is nothing unless you continue to remember it." - Confucius
 
+> "You don't look out there for God, something in the sky, you look in you." - Alan Watts
+
 ## Tech Tip of the Day
-Run 'nginx -t' to test your Nginx config before reloading.
+In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini Challenge
-Today's Challenge: Sum an array of numbers in Rust.
+Today's Challenge: Generate a Fibonacci sequence in Python.
