@@ -148,8 +148,10 @@ A visual of my GitHub activity:
 
 > "You don't look out there for God, something in the sky, you look in you." - Alan Watts
 
+> "What you do today can improve all your tomorrows." - Ralph Marston
+
 ## Tech Tip of the Day
-In Python, 'list[::-1]' reverses a list in one line.
+Use 'docker-compose up -d' to start services in the background.
 
 ## Mini Challenge
-Today's Challenge: Generate a Fibonacci sequence in Python.
+Today's Challenge: Expose a Kubernetes service via NodePort.
