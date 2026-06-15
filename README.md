@@ -150,8 +150,10 @@ A visual of my GitHub activity:
 
 > "What you do today can improve all your tomorrows." - Ralph Marston
 
+> "Vanity can easily overtake wisdom. It usually overtakes common sense." - Julian Casablancas
+
 ## Tech Tip of the Day
-Use 'docker-compose up -d' to start services in the background.
+In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini Challenge
-Today's Challenge: Expose a Kubernetes service via NodePort.
+Today's Challenge: Create a multi-stage Docker build for a Go app.
