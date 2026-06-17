@@ -154,8 +154,10 @@ A visual of my GitHub activity:
 
 > "You cannot step twice into the same river, for other waters are continually flowing in." - Heraclitus
 
+> "The least movement is of importance to all nature. The entire ocean is affected by a pebble." - Blaise Pascal
+
 ## Tech Tip of the Day
-Run 'lsblk' to list block devices and their mount points.
+Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini Challenge
-Today's Challenge: Find the max value in a slice in Go.
+Today's Challenge: Implement a stack in Rust.
