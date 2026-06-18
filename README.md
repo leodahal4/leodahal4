@@ -156,8 +156,10 @@ A visual of my GitHub activity:
 
 > "The least movement is of importance to all nature. The entire ocean is affected by a pebble." - Blaise Pascal
 
+> "When we seek to discover the best in others, we somehow bring out the best in ourselves." - William Arthur Ward
+
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini Challenge
-Today's Challenge: Implement a stack in Rust.
+Today's Challenge: Count word frequency in a text file in Python.
