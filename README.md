@@ -158,8 +158,10 @@ A visual of my GitHub activity:
 
 > "When we seek to discover the best in others, we somehow bring out the best in ourselves." - William Arthur Ward
 
+> "The truth of the matter is that you always know the right thing to do. The hard part is doing it." - Norman Schwarzkopf
+
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini Challenge
-Today's Challenge: Count word frequency in a text file in Python.
+Today's Challenge: Set up a Kubernetes ConfigMap for an app.
