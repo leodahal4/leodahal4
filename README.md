@@ -160,8 +160,10 @@ A visual of my GitHub activity:
 
 > "The truth of the matter is that you always know the right thing to do. The hard part is doing it." - Norman Schwarzkopf
 
+> "Memory is the mother of all wisdom." - Samuel Johnson
+
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ConfigMap for an app.
+Today's Challenge: Dockerize a simple Flask API.
