@@ -164,8 +164,10 @@ A visual of my GitHub activity:
 
 > "You can do it if you believe you can!" - Napoleon Hill
 
+> "Whoever doesn't flare up at someone who's angry wins a battle hard to win." - The Buddha
+
 ## Tech Tip of the Day
-In Go, 'go fmt' auto-formats your code.
+Run 'docker system prune' to clean up unused resources.
 
 ## Mini Challenge
-Today's Challenge: Reverse an integer in Go.
+Today's Challenge: Filter even numbers from a vector in Rust.
