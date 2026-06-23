@@ -166,8 +166,10 @@ A visual of my GitHub activity:
 
 > "Whoever doesn't flare up at someone who's angry wins a battle hard to win." - The Buddha
 
+> "Don't look back. Something might be gaining on you." - Satchel Paige
+
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini Challenge
-Today's Challenge: Filter even numbers from a vector in Rust.
+Today's Challenge: Create a simple CLI tool in Python.
