@@ -168,8 +168,10 @@ A visual of my GitHub activity:
 
 > "Don't look back. Something might be gaining on you." - Satchel Paige
 
+> "A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein
+
 ## Tech Tip of the Day
-In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+Use 'find . -name "*.txt"' to locate all .txt files.
 
 ## Mini Challenge
-Today's Challenge: Create a simple CLI tool in Python.
+Today's Challenge: Deploy a stateless app in Kubernetes.
