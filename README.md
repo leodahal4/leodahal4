@@ -170,8 +170,10 @@ A visual of my GitHub activity:
 
 > "A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein
 
+> "The world makes way for the man who knows where he is going." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-Use 'find . -name "*.txt"' to locate all .txt files.
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini Challenge
-Today's Challenge: Deploy a stateless app in Kubernetes.
+Today's Challenge: Build a Docker image for a Node.js app.
