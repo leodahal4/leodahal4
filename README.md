@@ -172,8 +172,10 @@ A visual of my GitHub activity:
 
 > "The world makes way for the man who knows where he is going." - Ralph Waldo Emerson
 
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
