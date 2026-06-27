@@ -174,8 +174,10 @@ A visual of my GitHub activity:
 
 > "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 
+> "Knowing is not enough; we must apply. Willing is not enough; we must do." - Johann Wolfgang von Goethe
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
