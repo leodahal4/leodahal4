@@ -176,8 +176,10 @@ A visual of my GitHub activity:
 
 > "Knowing is not enough; we must apply. Willing is not enough; we must do." - Johann Wolfgang von Goethe
 
+> "I am a man of fixed and unbending principles, the first of which is to be flexible at all times." - Everett Dirksen
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
