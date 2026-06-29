@@ -178,8 +178,10 @@ A visual of my GitHub activity:
 
 > "I am a man of fixed and unbending principles, the first of which is to be flexible at all times." - Everett Dirksen
 
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
