@@ -180,8 +180,10 @@ A visual of my GitHub activity:
 
 > "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 
+> "Business, you know, may bring you money, but friendship hardly ever does." - Jane Austen
+
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ingress for an app.
+Today's Challenge: Create a Docker volume for persistent data.
