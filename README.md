@@ -182,8 +182,10 @@ A visual of my GitHub activity:
 
 > "Business, you know, may bring you money, but friendship hardly ever does." - Jane Austen
 
+> "Impossibilities are merely things which we have not yet learned." - Charles W. Chesnutt
+
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini Challenge
-Today's Challenge: Create a Docker volume for persistent data.
+Today's Challenge: Reverse a string in Go.
