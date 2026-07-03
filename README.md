@@ -186,8 +186,10 @@ A visual of my GitHub activity:
 
 > "Friendship brings in a lot of honesty and trust into any relationship, especially a marriage." - Farhan Akhtar
 
+> "Whatever has the nature of arising has the nature of ceasing." - The Buddha
+
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini Challenge
-Today's Challenge: Count vowels in a string in Rust.
+Today's Challenge: Find the factorial of a number in Python.
