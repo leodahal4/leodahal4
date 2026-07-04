@@ -188,8 +188,10 @@ A visual of my GitHub activity:
 
 > "Whatever has the nature of arising has the nature of ceasing." - The Buddha
 
+> "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?" - Rabbi Hillel
+
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini Challenge
-Today's Challenge: Find the factorial of a number in Python.
+Today's Challenge: Create a simple pod in Kubernetes.
