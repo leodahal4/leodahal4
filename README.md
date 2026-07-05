@@ -190,8 +190,10 @@ A visual of my GitHub activity:
 
 > "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?" - Rabbi Hillel
 
+> "Never apologize for showing feeling. When you do so, you apologize for truth." - Benjamin Disraeli
+
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini Challenge
-Today's Challenge: Create a simple pod in Kubernetes.
+Today's Challenge: Build a Docker image for a static HTML page.
