@@ -194,8 +194,10 @@ A visual of my GitHub activity:
 
 > "Whenever something negative happens to you, there is a deep lesson concealed within it." - Eckhart Tolle
 
+> "He who controls others may be powerful, but he who has mastered himself is mightier still." - Laozi
+
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini Challenge
-Today's Challenge: Sort an array of integers in Go.
+Today's Challenge: Implement a linked list in Rust.
