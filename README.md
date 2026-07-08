@@ -196,8 +196,10 @@ A visual of my GitHub activity:
 
 > "He who controls others may be powerful, but he who has mastered himself is mightier still." - Laozi
 
+> "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night." - William Blake
+
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini Challenge
-Today's Challenge: Implement a linked list in Rust.
+Today's Challenge: 
