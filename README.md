@@ -198,6 +198,8 @@ A visual of my GitHub activity:
 
 > "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night." - William Blake
 
+> "Not engaging in ignorance is wisdom." - Bodhidharma
+
 ## Tech Tip of the Day
 
 
