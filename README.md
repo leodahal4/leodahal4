@@ -200,8 +200,10 @@ A visual of my GitHub activity:
 
 > "Not engaging in ignorance is wisdom." - Bodhidharma
 
-## Tech Tip of the Day
+> "Technology is a word that describes something that doesn't work yet." - Douglas Adams
 
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini Challenge
-Today's Challenge: 
+Today's Challenge: Write a Dockerfile to run a Python script.
