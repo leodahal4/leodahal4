@@ -202,8 +202,10 @@ A visual of my GitHub activity:
 
 > "Technology is a word that describes something that doesn't work yet." - Douglas Adams
 
+> "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing." - Mother Teresa
+
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini Challenge
-Today's Challenge: Write a Dockerfile to run a Python script.
+Today's Challenge: Check if a string is a palindrome in Go.
