@@ -204,8 +204,10 @@ A visual of my GitHub activity:
 
 > "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing." - Mother Teresa
 
+> "Real success is finding your lifework in the work that you love." - David McCullough
+
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini Challenge
-Today's Challenge: Check if a string is a palindrome in Go.
+Today's Challenge: Sum an array of numbers in Rust.
