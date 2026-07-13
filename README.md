@@ -206,8 +206,10 @@ A visual of my GitHub activity:
 
 > "Real success is finding your lifework in the work that you love." - David McCullough
 
+> "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's." - Billy Wilder
+
 ## Tech Tip of the Day
-Run 'nginx -t' to test your Nginx config before reloading.
+In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini Challenge
-Today's Challenge: Sum an array of numbers in Rust.
+Today's Challenge: Generate a Fibonacci sequence in Python.
