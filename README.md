@@ -208,8 +208,10 @@ A visual of my GitHub activity:
 
 > "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's." - Billy Wilder
 
+> "Study the past, if you would divine the future." - Confucius
+
 ## Tech Tip of the Day
-In Python, 'list[::-1]' reverses a list in one line.
+Use 'docker-compose up -d' to start services in the background.
 
 ## Mini Challenge
-Today's Challenge: Generate a Fibonacci sequence in Python.
+Today's Challenge: Expose a Kubernetes service via NodePort.
