@@ -210,8 +210,10 @@ A visual of my GitHub activity:
 
 > "Study the past, if you would divine the future." - Confucius
 
+> "When you realize there is nothing lacking, the whole world belongs to you." - Laozi
+
 ## Tech Tip of the Day
-Use 'docker-compose up -d' to start services in the background.
+In Vim, 'Ctrl + u' scrolls up half a screen.
 
 ## Mini Challenge
-Today's Challenge: Expose a Kubernetes service via NodePort.
+Today's Challenge: Create a multi-stage Docker build for a Go app.
