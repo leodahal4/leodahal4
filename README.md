@@ -216,8 +216,10 @@ A visual of my GitHub activity:
 
 > "Never find fault with the absent." - Alexander Pope
 
+> "You just can't beat the person who never gives up." - Babe Ruth
+
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini Challenge
-Today's Challenge: Implement a stack in Rust.
+Today's Challenge: Count word frequency in a text file in Python.
