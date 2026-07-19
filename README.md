@@ -218,8 +218,10 @@ A visual of my GitHub activity:
 
 > "You just can't beat the person who never gives up." - Babe Ruth
 
+> "Be less curious about people and more curious about ideas." - Marie Curie
+
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini Challenge
-Today's Challenge: Count word frequency in a text file in Python.
+Today's Challenge: Set up a Kubernetes ConfigMap for an app.
