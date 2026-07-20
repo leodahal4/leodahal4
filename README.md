@@ -220,8 +220,10 @@ A visual of my GitHub activity:
 
 > "Be less curious about people and more curious about ideas." - Marie Curie
 
+> "We can do no great things, only small things with great love." - Mother Teresa
+
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ConfigMap for an app.
+Today's Challenge: Dockerize a simple Flask API.
