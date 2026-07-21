@@ -222,8 +222,10 @@ A visual of my GitHub activity:
 
 > "We can do no great things, only small things with great love." - Mother Teresa
 
+> "Numberless are the worlds wonders, but none more wonderful than man." - Sophocles
+
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini Challenge
-Today's Challenge: Dockerize a simple Flask API.
+Today's Challenge: Reverse an integer in Go.
