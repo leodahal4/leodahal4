@@ -224,8 +224,10 @@ A visual of my GitHub activity:
 
 > "Numberless are the worlds wonders, but none more wonderful than man." - Sophocles
 
+> "The sum of wisdom is that time is never lost that is devoted to work." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-In Go, 'go fmt' auto-formats your code.
+Run 'docker system prune' to clean up unused resources.
 
 ## Mini Challenge
-Today's Challenge: Reverse an integer in Go.
+Today's Challenge: Filter even numbers from a vector in Rust.
