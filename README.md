@@ -226,8 +226,10 @@ A visual of my GitHub activity:
 
 > "The sum of wisdom is that time is never lost that is devoted to work." - Ralph Waldo Emerson
 
+> "A goal without a plan is just a wish." - Larry Elder
+
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini Challenge
-Today's Challenge: Filter even numbers from a vector in Rust.
+Today's Challenge: Create a simple CLI tool in Python.
