@@ -228,8 +228,10 @@ A visual of my GitHub activity:
 
 > "A goal without a plan is just a wish." - Larry Elder
 
+> "Who sows virtue reaps honor." - Leonardo da Vinci
+
 ## Tech Tip of the Day
-In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+Use 'find . -name "*.txt"' to locate all .txt files.
 
 ## Mini Challenge
-Today's Challenge: Create a simple CLI tool in Python.
+Today's Challenge: Deploy a stateless app in Kubernetes.
