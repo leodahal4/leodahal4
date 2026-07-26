@@ -232,8 +232,10 @@ A visual of my GitHub activity:
 
 > "No party has a monopoly on wisdom. No democracy works without compromise." - Barack Obama
 
+> "Happiness does not come from having much, but from being attached to little." - Cheng Yen
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
