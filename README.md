@@ -234,8 +234,10 @@ A visual of my GitHub activity:
 
 > "Happiness does not come from having much, but from being attached to little." - Cheng Yen
 
+> "Most people are about as happy as they make up their minds to be" - Abraham Lincoln
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
