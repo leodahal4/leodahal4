@@ -236,8 +236,10 @@ A visual of my GitHub activity:
 
 > "Most people are about as happy as they make up their minds to be" - Abraham Lincoln
 
+> "When you are content to be simply yourself and don't compare or compete, everybody will respect you." - Laozi
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
