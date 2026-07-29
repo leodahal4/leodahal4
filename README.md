@@ -238,8 +238,10 @@ A visual of my GitHub activity:
 
 > "When you are content to be simply yourself and don't compare or compete, everybody will respect you." - Laozi
 
+> "We've got to have a dream if we are going to make a dream come true." - Walt Disney
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
