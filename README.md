@@ -240,8 +240,10 @@ A visual of my GitHub activity:
 
 > "We've got to have a dream if we are going to make a dream come true." - Walt Disney
 
+> "When times are bad is when the real entrepreneurs emerge." - Robert Kiyosaki
+
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ingress for an app.
+Today's Challenge: Create a Docker volume for persistent data.
