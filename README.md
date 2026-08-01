@@ -244,8 +244,10 @@ A visual of my GitHub activity:
 
 > "To be happy is to be able to become aware of oneself without fright." - Walter Benjamin
 
+> "Fame usually comes to those who are thinking about something else." - Oliver Wendell Holmes Jr.
+
 ## Tech Tip of the Day
-Use 'grep -r "text" .' to search for text in all files.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini Challenge
-Today's Challenge: Find duplicates in a slice in Go.
+Today's Challenge: Reverse a string in Go.
