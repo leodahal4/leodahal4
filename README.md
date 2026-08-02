@@ -246,8 +246,10 @@ A visual of my GitHub activity:
 
 > "Fame usually comes to those who are thinking about something else." - Oliver Wendell Holmes Jr.
 
+> "The man who trusts men will make fewer mistakes than he who distrusts them." - Camillo Benso, Count of Cavour
+
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini Challenge
-Today's Challenge: Reverse a string in Go.
+Today's Challenge: Count vowels in a string in Rust.
