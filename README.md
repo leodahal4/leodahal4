@@ -248,8 +248,10 @@ A visual of my GitHub activity:
 
 > "The man who trusts men will make fewer mistakes than he who distrusts them." - Camillo Benso, Count of Cavour
 
+> "Successful people ask better questions, and as a result, they get better answers." - Tony Robbins
+
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini Challenge
-Today's Challenge: Count vowels in a string in Rust.
+Today's Challenge: Find the factorial of a number in Python.
