@@ -250,8 +250,10 @@ A visual of my GitHub activity:
 
 > "Successful people ask better questions, and as a result, they get better answers." - Tony Robbins
 
+> "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - Richard Bach
+
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini Challenge
-Today's Challenge: Find the factorial of a number in Python.
+Today's Challenge: Create a simple pod in Kubernetes.
