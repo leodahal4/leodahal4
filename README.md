@@ -252,8 +252,10 @@ A visual of my GitHub activity:
 
 > "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice." - Richard Bach
 
+> "Applause is a receipt, not a bill." - Dale Carnegie
+
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini Challenge
-Today's Challenge: Create a simple pod in Kubernetes.
+Today's Challenge: Build a Docker image for a static HTML page.
