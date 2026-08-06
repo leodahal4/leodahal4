@@ -254,8 +254,10 @@ A visual of my GitHub activity:
 
 > "Applause is a receipt, not a bill." - Dale Carnegie
 
+> "Good timber does not grow with ease; the stronger the wind, the stronger the trees." - J. Willard Marriott
+
 ## Tech Tip of the Day
-Use 'curl -I' to fetch only HTTP headers from a URL.
+In Linux, 'top -i' ignores idle processes for a cleaner view.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a static HTML page.
+Today's Challenge: Sort an array of integers in Go.
