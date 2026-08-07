@@ -256,8 +256,10 @@ A visual of my GitHub activity:
 
 > "Good timber does not grow with ease; the stronger the wind, the stronger the trees." - J. Willard Marriott
 
+> "Read as you taste fruit or savor wine, or enjoy friendship, love or life." - George Herbert
+
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini Challenge
-Today's Challenge: Sort an array of integers in Go.
+Today's Challenge: Implement a linked list in Rust.
