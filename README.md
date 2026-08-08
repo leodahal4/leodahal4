@@ -258,8 +258,10 @@ A visual of my GitHub activity:
 
 > "Read as you taste fruit or savor wine, or enjoy friendship, love or life." - George Herbert
 
+> "Train up a fig tree in the way it should go, and when you are old sit under the shade of it." - Charles Dickens
+
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini Challenge
-Today's Challenge: Implement a linked list in Rust.
+Today's Challenge: 
