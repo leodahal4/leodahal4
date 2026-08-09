@@ -260,6 +260,8 @@ A visual of my GitHub activity:
 
 > "Train up a fig tree in the way it should go, and when you are old sit under the shade of it." - Charles Dickens
 
+> "Friends... they cherish one another's hopes. They are kind to one another's dreams." - Henry David Thoreau
+
 ## Tech Tip of the Day
 
 
