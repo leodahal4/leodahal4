@@ -262,8 +262,10 @@ A visual of my GitHub activity:
 
 > "Friends... they cherish one another's hopes. They are kind to one another's dreams." - Henry David Thoreau
 
-## Tech Tip of the Day
+> "The world turns aside to let any man pass who knows where he is going." - Epictetus
 
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini Challenge
-Today's Challenge: 
+Today's Challenge: Write a Dockerfile to run a Python script.
