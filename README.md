@@ -266,8 +266,10 @@ A visual of my GitHub activity:
 
 > "Stay committed to your decisions, but stay flexible in your approach." - Tony Robbins
 
+> "Wise men speak because they have something to say; Fools because they have to say something." - Plato
+
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini Challenge
-Today's Challenge: Check if a string is a palindrome in Go.
+Today's Challenge: Sum an array of numbers in Rust.
