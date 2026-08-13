@@ -268,8 +268,10 @@ A visual of my GitHub activity:
 
 > "Wise men speak because they have something to say; Fools because they have to say something." - Plato
 
+> "To be wronged is nothing unless you continue to remember it." - Confucius
+
 ## Tech Tip of the Day
-Run 'nginx -t' to test your Nginx config before reloading.
+In Python, 'list[::-1]' reverses a list in one line.
 
 ## Mini Challenge
-Today's Challenge: Sum an array of numbers in Rust.
+Today's Challenge: Generate a Fibonacci sequence in Python.
