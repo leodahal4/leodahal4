@@ -270,8 +270,10 @@ A visual of my GitHub activity:
 
 > "To be wronged is nothing unless you continue to remember it." - Confucius
 
+> "Imagination is the highest kite one can fly." - Lauren Bacall
+
 ## Tech Tip of the Day
-In Python, 'list[::-1]' reverses a list in one line.
+Use 'docker-compose up -d' to start services in the background.
 
 ## Mini Challenge
-Today's Challenge: Generate a Fibonacci sequence in Python.
+Today's Challenge: Expose a Kubernetes service via NodePort.
