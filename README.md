@@ -274,8 +274,10 @@ A visual of my GitHub activity:
 
 > "A man should look for what is, and not for what he thinks should be." - Albert Einstein
 
+> "Our strength grows out of our weaknesses." - Ralph Waldo Emerson
+
 ## Tech Tip of the Day
-In Vim, 'Ctrl + u' scrolls up half a screen.
+Run 'lsblk' to list block devices and their mount points.
 
 ## Mini Challenge
-Today's Challenge: Create a multi-stage Docker build for a Go app.
+Today's Challenge: Find the max value in a slice in Go.
