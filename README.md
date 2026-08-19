@@ -278,8 +278,10 @@ A visual of my GitHub activity:
 
 > "A lie gets halfway around the world before the truth has a chance to get its pants on." - Winston Churchill
 
+> "Good advice is always certain to be ignored, but that's no reason not to give it." - Agatha Christie
+
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini Challenge
-Today's Challenge: Implement a stack in Rust.
+Today's Challenge: Set up a Kubernetes ConfigMap for an app.
