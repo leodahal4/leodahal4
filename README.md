@@ -280,8 +280,10 @@ A visual of my GitHub activity:
 
 > "Good advice is always certain to be ignored, but that's no reason not to give it." - Agatha Christie
 
+> "Friendship is an arrangement by which we undertake to exchange small favors for big ones." - Montesquieu
+
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ConfigMap for an app.
+Today's Challenge: Dockerize a simple Flask API.
