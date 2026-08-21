@@ -282,8 +282,10 @@ A visual of my GitHub activity:
 
 > "Friendship is an arrangement by which we undertake to exchange small favors for big ones." - Montesquieu
 
+> "One should not hurt others if one loves oneself." - The Buddha
+
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini Challenge
-Today's Challenge: Dockerize a simple Flask API.
+Today's Challenge: Reverse an integer in Go.
