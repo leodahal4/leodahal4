@@ -284,8 +284,10 @@ A visual of my GitHub activity:
 
 > "One should not hurt others if one loves oneself." - The Buddha
 
+> "Quality is not an act; it is a habit." - Aristotle
+
 ## Tech Tip of the Day
-In Go, 'go fmt' auto-formats your code.
+Run 'docker system prune' to clean up unused resources.
 
 ## Mini Challenge
-Today's Challenge: Reverse an integer in Go.
+Today's Challenge: Filter even numbers from a vector in Rust.
