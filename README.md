@@ -286,8 +286,10 @@ A visual of my GitHub activity:
 
 > "Quality is not an act; it is a habit." - Aristotle
 
+> "We shall never know all the good that a simple smile can do." - Mother Teresa
+
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini Challenge
-Today's Challenge: Filter even numbers from a vector in Rust.
+Today's Challenge: Create a simple CLI tool in Python.
