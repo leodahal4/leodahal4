@@ -290,8 +290,10 @@ A visual of my GitHub activity:
 
 > "The higher we are placed, the more humbly we should walk." - Cicero
 
+> "Knowing is not enough; we must apply. Willing is not enough; we must do." - Johann Wolfgang von Goethe
+
 ## Tech Tip of the Day
-Use 'find . -name "*.txt"' to locate all .txt files.
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini Challenge
-Today's Challenge: Deploy a stateless app in Kubernetes.
+Today's Challenge: Build a Docker image for a Node.js app.
