@@ -292,8 +292,10 @@ A visual of my GitHub activity:
 
 > "Knowing is not enough; we must apply. Willing is not enough; we must do." - Johann Wolfgang von Goethe
 
+> "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
