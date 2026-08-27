@@ -294,8 +294,10 @@ A visual of my GitHub activity:
 
 > "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
 
+> "Price is what you pay. Value is what you get." - Warren Buffett
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
