@@ -296,8 +296,10 @@ A visual of my GitHub activity:
 
 > "Price is what you pay. Value is what you get." - Warren Buffett
 
+> "Knowledge is of no value unless you put it into practice." - Anton Chekhov
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
