@@ -298,8 +298,10 @@ A visual of my GitHub activity:
 
 > "Knowledge is of no value unless you put it into practice." - Anton Chekhov
 
+> "Don't compromise yourself. You are all you've got." - Janis Joplin
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
