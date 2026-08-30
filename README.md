@@ -300,8 +300,10 @@ A visual of my GitHub activity:
 
 > "Don't compromise yourself. You are all you've got." - Janis Joplin
 
+> "Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison
+
 ## Tech Tip of the Day
-Run 'docker exec -it <container> bash' to enter a container.
+In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ingress for an app.
+Today's Challenge: Create a Docker volume for persistent data.
