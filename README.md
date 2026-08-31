@@ -302,8 +302,10 @@ A visual of my GitHub activity:
 
 > "Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison
 
+> "Those who cannot learn from history are doomed to repeat it." - George Santayana
+
 ## Tech Tip of the Day
-In Vim, 'u' undoes the last change, 'Ctrl + r' redoes it.
+Use 'grep -r "text" .' to search for text in all files.
 
 ## Mini Challenge
-Today's Challenge: Create a Docker volume for persistent data.
+Today's Challenge: Find duplicates in a slice in Go.
