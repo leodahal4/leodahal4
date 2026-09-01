@@ -304,8 +304,10 @@ A visual of my GitHub activity:
 
 > "Those who cannot learn from history are doomed to repeat it." - George Santayana
 
+> "You are important enough to ask and you are blessed enough to receive back." - Wayne Dyer
+
 ## Tech Tip of the Day
-Use 'grep -r "text" .' to search for text in all files.
+Use 'git stash' to temporarily save changes without committing.
 
 ## Mini Challenge
-Today's Challenge: Find duplicates in a slice in Go.
+Today's Challenge: Reverse a string in Go.
