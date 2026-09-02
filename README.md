@@ -306,8 +306,10 @@ A visual of my GitHub activity:
 
 > "You are important enough to ask and you are blessed enough to receive back." - Wayne Dyer
 
+> "Step with care and great tact and remember that Life's a Great Balancing Act." - Dr. Seuss
+
 ## Tech Tip of the Day
-Use 'git stash' to temporarily save changes without committing.
+In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
 
 ## Mini Challenge
-Today's Challenge: Reverse a string in Go.
+Today's Challenge: Count vowels in a string in Rust.
