@@ -308,8 +308,10 @@ A visual of my GitHub activity:
 
 > "Step with care and great tact and remember that Life's a Great Balancing Act." - Dr. Seuss
 
+> "Happiness often sneaks in through a door you didn't know you left open." - John Barrymore
+
 ## Tech Tip of the Day
-In Vim, ':%s/old/new/g' replaces all occurrences of 'old' with 'new'.
+Run 'docker ps -a' to see all containers, even stopped ones.
 
 ## Mini Challenge
-Today's Challenge: Count vowels in a string in Rust.
+Today's Challenge: Find the factorial of a number in Python.
