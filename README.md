@@ -310,8 +310,10 @@ A visual of my GitHub activity:
 
 > "Happiness often sneaks in through a door you didn't know you left open." - John Barrymore
 
+> "Success consists of going from failure to failure without loss of enthusiasm." - Winston Churchill
+
 ## Tech Tip of the Day
-Run 'docker ps -a' to see all containers, even stopped ones.
+Add 'set -x' in a Bash script to debug by printing commands.
 
 ## Mini Challenge
-Today's Challenge: Find the factorial of a number in Python.
+Today's Challenge: Create a simple pod in Kubernetes.
