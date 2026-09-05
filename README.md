@@ -312,8 +312,10 @@ A visual of my GitHub activity:
 
 > "Success consists of going from failure to failure without loss of enthusiasm." - Winston Churchill
 
+> "Know, first, who you are, and then adorn yourself accordingly." - Epictetus
+
 ## Tech Tip of the Day
-Add 'set -x' in a Bash script to debug by printing commands.
+Use 'curl -I' to fetch only HTTP headers from a URL.
 
 ## Mini Challenge
-Today's Challenge: Create a simple pod in Kubernetes.
+Today's Challenge: Build a Docker image for a static HTML page.
