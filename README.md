@@ -314,8 +314,10 @@ A visual of my GitHub activity:
 
 > "Know, first, who you are, and then adorn yourself accordingly." - Epictetus
 
+> "I love you the more in that I believe you had liked me for my own sake and for nothing else." - John Keats
+
 ## Tech Tip of the Day
-Use 'curl -I' to fetch only HTTP headers from a URL.
+In Linux, 'top -i' ignores idle processes for a cleaner view.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a static HTML page.
+Today's Challenge: Sort an array of integers in Go.
