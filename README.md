@@ -316,8 +316,10 @@ A visual of my GitHub activity:
 
 > "I love you the more in that I believe you had liked me for my own sake and for nothing else." - John Keats
 
+> "Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots." - H. Jackson Brown Jr.
+
 ## Tech Tip of the Day
-In Linux, 'top -i' ignores idle processes for a cleaner view.
+Run 'kubectl get pods --all-namespaces' to see all cluster pods.
 
 ## Mini Challenge
-Today's Challenge: Sort an array of integers in Go.
+Today's Challenge: Implement a linked list in Rust.
