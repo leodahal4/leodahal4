@@ -318,8 +318,10 @@ A visual of my GitHub activity:
 
 > "Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots." - H. Jackson Brown Jr.
 
+> "Your mind will answer most questions if you learn to relax and wait for the answer." - William Burroughs
+
 ## Tech Tip of the Day
-Run 'kubectl get pods --all-namespaces' to see all cluster pods.
+
 
 ## Mini Challenge
-Today's Challenge: Implement a linked list in Rust.
+Today's Challenge: 
