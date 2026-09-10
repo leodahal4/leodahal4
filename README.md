@@ -322,8 +322,10 @@ A visual of my GitHub activity:
 
 > "Logic is the beginning of wisdom, not the end." - Leonard Nimoy
 
-## Tech Tip of the Day
+> "Patience is the companion of wisdom." - Augustine of Hippo
 
+## Tech Tip of the Day
+Check Docker container logs with 'docker logs <container_id>'.
 
 ## Mini Challenge
-Today's Challenge: 
+Today's Challenge: Write a Dockerfile to run a Python script.
