@@ -324,8 +324,10 @@ A visual of my GitHub activity:
 
 > "Patience is the companion of wisdom." - Augustine of Hippo
 
+> "Most great people have attained their greatest success just one step beyond their greatest failure." - Napoleon Hill
+
 ## Tech Tip of the Day
-Check Docker container logs with 'docker logs <container_id>'.
+Use 'chmod +x script.sh' to make a Bash script executable.
 
 ## Mini Challenge
-Today's Challenge: Write a Dockerfile to run a Python script.
+Today's Challenge: Check if a string is a palindrome in Go.
