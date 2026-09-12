@@ -326,8 +326,10 @@ A visual of my GitHub activity:
 
 > "Most great people have attained their greatest success just one step beyond their greatest failure." - Napoleon Hill
 
+> "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's." - Billy Wilder
+
 ## Tech Tip of the Day
-Use 'chmod +x script.sh' to make a Bash script executable.
+Run 'nginx -t' to test your Nginx config before reloading.
 
 ## Mini Challenge
-Today's Challenge: Check if a string is a palindrome in Go.
+Today's Challenge: Sum an array of numbers in Rust.
