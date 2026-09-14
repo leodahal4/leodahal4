@@ -330,8 +330,10 @@ A visual of my GitHub activity:
 
 > "Learning is finding out what you already know." - Richard Bach
 
+> "Learning without reflection is a waste, reflection without learning is dangerous." - Confucius
+
 ## Tech Tip of the Day
-In Python, 'list[::-1]' reverses a list in one line.
+Use 'docker-compose up -d' to start services in the background.
 
 ## Mini Challenge
-Today's Challenge: Generate a Fibonacci sequence in Python.
+Today's Challenge: Expose a Kubernetes service via NodePort.
