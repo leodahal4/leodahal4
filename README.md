@@ -336,8 +336,10 @@ A visual of my GitHub activity:
 
 > "Divide each difficulty into as many parts as is feasible and necessary to resolve it." - René Descartes
 
+> "See the positive side, the potential, and make an effort." - Dalai Lama
+
 ## Tech Tip of the Day
-Run 'lsblk' to list block devices and their mount points.
+Use 'git branch -D <branch>' to force delete a local branch.
 
 ## Mini Challenge
-Today's Challenge: Find the max value in a slice in Go.
+Today's Challenge: Implement a stack in Rust.
