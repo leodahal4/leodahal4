@@ -338,8 +338,10 @@ A visual of my GitHub activity:
 
 > "See the positive side, the potential, and make an effort." - Dalai Lama
 
+> "It is not so important to know everything as to appreciate what we learn." - Hannah More
+
 ## Tech Tip of the Day
-Use 'git branch -D <branch>' to force delete a local branch.
+In Bash, 'Ctrl + r' searches your command history.
 
 ## Mini Challenge
-Today's Challenge: Implement a stack in Rust.
+Today's Challenge: Count word frequency in a text file in Python.
