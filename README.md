@@ -340,8 +340,10 @@ A visual of my GitHub activity:
 
 > "It is not so important to know everything as to appreciate what we learn." - Hannah More
 
+> "It is the mark of an educated mind to be able to entertain a thought without accepting it." - Aristotle
+
 ## Tech Tip of the Day
-In Bash, 'Ctrl + r' searches your command history.
+Run 'kubectl describe pod <name>' for detailed pod info.
 
 ## Mini Challenge
-Today's Challenge: Count word frequency in a text file in Python.
+Today's Challenge: Set up a Kubernetes ConfigMap for an app.
