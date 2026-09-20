@@ -342,8 +342,10 @@ A visual of my GitHub activity:
 
 > "It is the mark of an educated mind to be able to entertain a thought without accepting it." - Aristotle
 
+> "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom." - Theodore Isaac Rubin
+
 ## Tech Tip of the Day
-Run 'kubectl describe pod <name>' for detailed pod info.
+Use 'tail -f file.log' to monitor a log file in real-time.
 
 ## Mini Challenge
-Today's Challenge: Set up a Kubernetes ConfigMap for an app.
+Today's Challenge: Dockerize a simple Flask API.
