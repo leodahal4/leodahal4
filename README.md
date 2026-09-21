@@ -344,8 +344,10 @@ A visual of my GitHub activity:
 
 > "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom." - Theodore Isaac Rubin
 
+> "Life is the flower for which love is the honey." - Victor Hugo
+
 ## Tech Tip of the Day
-Use 'tail -f file.log' to monitor a log file in real-time.
+In Go, 'go fmt' auto-formats your code.
 
 ## Mini Challenge
-Today's Challenge: Dockerize a simple Flask API.
+Today's Challenge: Reverse an integer in Go.
