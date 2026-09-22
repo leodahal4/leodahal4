@@ -346,8 +346,10 @@ A visual of my GitHub activity:
 
 > "Life is the flower for which love is the honey." - Victor Hugo
 
+> "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." - Pema Chödrön
+
 ## Tech Tip of the Day
-In Go, 'go fmt' auto-formats your code.
+Run 'docker system prune' to clean up unused resources.
 
 ## Mini Challenge
-Today's Challenge: Reverse an integer in Go.
+Today's Challenge: Filter even numbers from a vector in Rust.
