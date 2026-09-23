@@ -348,8 +348,10 @@ A visual of my GitHub activity:
 
 > "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." - Pema Chödrön
 
+> "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." - Henri Bergson
+
 ## Tech Tip of the Day
-Run 'docker system prune' to clean up unused resources.
+In Vim, ':w !sudo tee %' saves a file with sudo privileges.
 
 ## Mini Challenge
-Today's Challenge: Filter even numbers from a vector in Rust.
+Today's Challenge: Create a simple CLI tool in Python.
