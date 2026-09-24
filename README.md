@@ -350,8 +350,10 @@ A visual of my GitHub activity:
 
 > "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." - Henri Bergson
 
+> "The best thing about the future is that it only comes one day at a time." - Abraham Lincoln
+
 ## Tech Tip of the Day
-In Vim, ':w !sudo tee %' saves a file with sudo privileges.
+Use 'find . -name "*.txt"' to locate all .txt files.
 
 ## Mini Challenge
-Today's Challenge: Create a simple CLI tool in Python.
+Today's Challenge: Deploy a stateless app in Kubernetes.
