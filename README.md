@@ -352,8 +352,10 @@ A visual of my GitHub activity:
 
 > "The best thing about the future is that it only comes one day at a time." - Abraham Lincoln
 
+> "Technology is anything that wasn't around when you were born." - Man Ray
+
 ## Tech Tip of the Day
-Use 'find . -name "*.txt"' to locate all .txt files.
+Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
 
 ## Mini Challenge
-Today's Challenge: Deploy a stateless app in Kubernetes.
+Today's Challenge: Build a Docker image for a Node.js app.
