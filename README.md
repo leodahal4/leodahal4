@@ -354,8 +354,10 @@ A visual of my GitHub activity:
 
 > "Technology is anything that wasn't around when you were born." - Man Ray
 
+> "Better than a thousand useless words is one useful word, upon hearing which one attains peace." - The Buddha
+
 ## Tech Tip of the Day
-Run 'git rebase -i HEAD~n' to interactively rebase last n commits.
+In Linux, 'df -h' shows disk usage in human-readable format.
 
 ## Mini Challenge
-Today's Challenge: Build a Docker image for a Node.js app.
+Today's Challenge: Convert decimal to binary in Go.
