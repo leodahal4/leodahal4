@@ -356,8 +356,10 @@ A visual of my GitHub activity:
 
 > "Better than a thousand useless words is one useful word, upon hearing which one attains peace." - The Buddha
 
+> "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's." - Billy Wilder
+
 ## Tech Tip of the Day
-In Linux, 'df -h' shows disk usage in human-readable format.
+Use 'kubectl port-forward' to access a pod locally.
 
 ## Mini Challenge
-Today's Challenge: Convert decimal to binary in Go.
+Today's Challenge: Implement a queue in Rust.
