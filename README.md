@@ -358,8 +358,10 @@ A visual of my GitHub activity:
 
 > "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's." - Billy Wilder
 
+> "Love doesn't make the world go round; love is what makes the ride worthwhile." - Elizabeth Browning
+
 ## Tech Tip of the Day
-Use 'kubectl port-forward' to access a pod locally.
+In Bash, '!!' repeats the last command.
 
 ## Mini Challenge
-Today's Challenge: Implement a queue in Rust.
+Today's Challenge: Scrape a webpage using Python.
