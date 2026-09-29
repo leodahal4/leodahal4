@@ -360,8 +360,10 @@ A visual of my GitHub activity:
 
 > "Love doesn't make the world go round; love is what makes the ride worthwhile." - Elizabeth Browning
 
+> "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
+
 ## Tech Tip of the Day
-In Bash, '!!' repeats the last command.
+Run 'docker exec -it <container> bash' to enter a container.
 
 ## Mini Challenge
-Today's Challenge: Scrape a webpage using Python.
+Today's Challenge: Set up a Kubernetes ingress for an app.
